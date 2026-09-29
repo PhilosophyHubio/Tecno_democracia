@@ -32,18 +32,31 @@
             }
           },
           {
-            "id": "d4c0db465a20ca55",
+            "id": "15f4bd575f40caa2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Tecnologia_y_democracia/Zine/Preview.pdf"
+                "file": "Tecnologia_y_democracia/Fuentes/Tabla de fuentes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Preview"
+              "icon": "lucide-file",
+              "title": "Tabla de fuentes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 210.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,11 +231,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "501291f282a9f679",
+  "active": "15f4bd575f40caa2",
   "lastOpenFiles": [
+    "Tecnologia_y_democracia/Zine/Boceto2.md",
+    "Tecnologia_y_democracia/Fuentes/Tabla de fuentes.md",
+    "Tecnologia_y_democracia/Zine/Preview.pdf",
     "Tecnologia_y_democracia/Zine/Boceto.md",
     "Tecnologia_y_democracia/Zine/Pendientes.md",
-    "Tecnologia_y_democracia/Zine/Boceto2.md",
     "Tecnologia_y_democracia/Zine/Ideas.md",
     "README.md",
     "Tecnologia_y_democracia/Grafos/Graph View.png",
@@ -232,12 +247,10 @@
     "Tecnologia_y_democracia/Zine/README.md",
     "Tecnologia_y_democracia/Notas/Feudalismo Tecnologico/Feudalismo tecnológico.md",
     "Tecnologia_y_democracia/Notas/Catedral y Bazar/Catedral y Bazar.md",
-    "Tecnologia_y_democracia/Fuentes/Tabla de fuentes.md",
     "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/README.md",
     "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/Pluralismo.md",
     "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/Multiculturalidad.md",
     "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/Democracia.md",
-    "Tecnologia_y_democracia/Zine/Preview.pdf",
     "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/Ciencia y democracia en sociedad multicultural.md",
     "Tecnologia_y_democracia/Notas/Feudalismo Tecnologico/Privacidad.md",
     "Tecnologia_y_democracia/Notas/Relaciones/Relación academia y tecnología.md",

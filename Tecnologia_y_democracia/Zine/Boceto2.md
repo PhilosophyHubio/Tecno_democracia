@@ -54,7 +54,7 @@ Al momento de desarrollar software, podemos distinguir dos modelos de desarrollo
 
  #### **Más allá del software, libertad**.
  
-La clave detrás del éxito del desarrollo tipo bazar consiste fundamentalmente en la colaboración entre pares y la pluralidad de ideas. Esto se ejemplifica en la "Ley de Linus" que Eric describe como "dados suficientes ojos, todos los errores son triviales" en referencia a que dada una cantidad suficiente de personas trabajando en el código de un programa, la solución a cualquier error que tenga va a parecerle evidente a alguien. 
+La clave detrás del éxito del desarrollo tipo bazar consiste fundamentalmente en la colaboración entre pares y la pluralidad de ideas. Esto se ejemplifica en la "Ley de Linus" que Eric describe como "dados suficientes ojos, todos los errores son triviales" en referencia a que dada una cantidad suficiente de personas trabajando en el código de un programa, la solución a cualquier error que tenga va a parecerle evidente a alguien. (Raymond, n.d.)
 
 El desarrollo tipo bazar está asociado inseparablemente al software libre, que a su vez es un concepto mas allá de programas de computadoras. El origen del software libre se da como respuesta a las restricciones que impone el software propietario, tanto por razones prácticas como políticas y éticas. 
 
@@ -69,9 +69,9 @@ La gran lección del software libre es que existen formas alternas de construir 
 
 %% Relaciones entre ciencia y sociedad, pluralismo y cientificismo, etc. y ciencia y tecnología. %%
 %% Ciencia-feudalismo , estructura feudal de la ciencia. %%
-%%Dewey diferencias de grado, Harding. %
+%%Dewey diferencias de grado, Harding. %%
 
-La Torre de Marfil como metáfora del lugar en que habitan científicos e investigadores, desconectados del resto de la sociedad y ocupándose ensimismados en labores abstractas e incomprensibles surge en parte en el contexto de una sociedad americana que se enfrenta a la segunda guerra mundial y que celebra la salida de sus científicos de la torre de marfil para dedicar su trabajo a la elaboración de la tecnología (principalmente armas) que definirá eventualmente el curso de la guerra y de lo que seguiría después de esta. 
+La Torre de Marfil como metáfora del lugar en que habitan científicos e investigadores, desconectados del resto de la sociedad y ocupándose ensimismados en labores abstractas e incomprensibles surge en parte en el contexto de una sociedad americana que se enfrenta a la segunda guerra mundial y que celebra la salida de sus científicos de la torre de marfil para dedicar su trabajo a la elaboración de la tecnología (principalmente armas) que definirá eventualmente el curso de la guerra y de lo que seguiría después de esta. (Shapin, 2012)
 
 La ciencia dentro de una torre de marfil es para la sociedad indescifrable, abstracta y esotérica, mientras que aquella que sale de la torre es cercana a las necesidades, ideas y deseos de la sociedad a la que mucho le debe. En este sentido, la torre de marfil es similar a la catedral: una practica cerrada y a menudo confidencial, llevada a cabo por grupos pequeños de personas y que no necesariamente contempla el beneficio social como un fin. Los productos de una ciencia "de torre" resultan ser tan opacos como la caja negra de _"el algoritmo"_ y cuando esta se desarrolla bajo la lógica del tecnofeudalismo, tiende a ponerse al servicio de quien financia o controla los medios de producción tecnológica.
 
