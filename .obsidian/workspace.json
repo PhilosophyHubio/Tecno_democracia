@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia_y_democracia/Zine/Pendientes.md",
+                "file": "Tecnologia_y_democracia/Zine/Boceto2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pendientes"
+              "title": "Boceto2"
             }
           },
           {
@@ -204,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 382.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,6 +221,8 @@
   "active": "501291f282a9f679",
   "lastOpenFiles": [
     "Tecnologia_y_democracia/Zine/Boceto.md",
+    "Tecnologia_y_democracia/Zine/Pendientes.md",
+    "Tecnologia_y_democracia/Zine/Boceto2.md",
     "Tecnologia_y_democracia/Zine/Ideas.md",
     "README.md",
     "Tecnologia_y_democracia/Grafos/Graph View.png",
@@ -236,7 +238,6 @@
     "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/Multiculturalidad.md",
     "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos/Democracia.md",
     "Tecnologia_y_democracia/Zine/Preview.pdf",
-    "Tecnologia_y_democracia/Zine/Pendientes.md",
     "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/Ciencia y democracia en sociedad multicultural.md",
     "Tecnologia_y_democracia/Notas/Feudalismo Tecnologico/Privacidad.md",
     "Tecnologia_y_democracia/Notas/Relaciones/Relación academia y tecnología.md",
