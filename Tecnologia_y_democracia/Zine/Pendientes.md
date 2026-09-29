@@ -11,7 +11,12 @@
 - [ ] Integración en CONVIDA
 - [ ] Diseño de imprimible / PDF
 
-### Contenidos
+### Contenidos (Boceto 2)
 
+Nueva estructura de contenidos:
 
-
+- [ ] Aldea digital
+- [ ] Tecno vasallismo
+- [ ] Torre de marfil
+- [ ] Señores feudales
+- [ ] Amenaza a la democracia
