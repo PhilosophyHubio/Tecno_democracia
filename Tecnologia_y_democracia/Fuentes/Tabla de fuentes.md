@@ -20,7 +20,9 @@
 
 # Por tema
 
-### Tecnofeudalismo
-...
+### Tecnovasallismo
+**Stallman, Richard (2004)** — _Software libre para una sociedad libre_
+**Barbrook, Richard y Cameron, Andy (1996)** — _La ideología californiana_
+
 
 
