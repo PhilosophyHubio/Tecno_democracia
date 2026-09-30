@@ -28,11 +28,17 @@
 ### Linux Journal Doc Sears
 
 A Line in the Sand by Doc Searls on February 13, 2019
+
 Every usar a Neo 2028
 	Be the friction - Our Response to the New Lords of the Ring Von Shoshana Zuboff
 
 Hacking Democracy by Doc Searls on June 1, 2004
 
 On valuing freedom more than cushy jail cells by Doc Searls on August 25, 2007 GGG
+
+Saving Cyberspace by Doc Searls on April 18, 2002 gg
+
+Saving the Net by Doc Searls on July 22, 2003
+
 
 
