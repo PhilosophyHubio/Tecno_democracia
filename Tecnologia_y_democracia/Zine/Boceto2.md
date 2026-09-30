@@ -42,6 +42,22 @@ La aldea digital somos todos nosotros los que ***interactuamos*** en y con las p
 %% Como elegimos colectivamente ser vasallos y como había otras opciones --> Tecnofeudalismo%%
 
 
+Podcast Echeverria: La cumbre mundial de la sociedad de la informacion, organizada por la ONU con la organizacion internacional de de telecomunicaciones.
+Finales de los noventa, web 2.0. independencia del ciberespacio.
+
+Intervencion de integrantes de la sociedad civil. Ginebra 2003 tunez 2005
+
+14:57
+La onu dimite de su responsdabilidad, no aplica la nocion de derechos humanos al cyber espacio, extiendase de los espaciops urbanos o de los paiseas al espacio electronico.
+Los estados pasaron de llevar la democracia al espacio electronico, y se lleva al campo de las empresas. Las empresas se quedan con la tarea de construir las infraestructuras mundiales de internet. --> conquista de internet. 
+
+
+Google se hace con la nevacion de internet y adquiere un poder gigantezco. 
+
+surgimiento de redes sociales en 2006 2005
+
+
+
 ...
 
 ## La catedral y el bazar

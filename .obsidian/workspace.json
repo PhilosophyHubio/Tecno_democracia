@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia_y_democracia/Fuentes/Tabla de fuentes.md",
+                "file": "Tecnologia_y_democracia/Zine/Boceto2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tabla de fuentes"
+              "title": "Boceto2"
             }
           }
         ],
@@ -233,8 +233,8 @@
   },
   "active": "15f4bd575f40caa2",
   "lastOpenFiles": [
-    "Tecnologia_y_democracia/Zine/Boceto2.md",
     "Tecnologia_y_democracia/Fuentes/Tabla de fuentes.md",
+    "Tecnologia_y_democracia/Zine/Boceto2.md",
     "Tecnologia_y_democracia/Zine/Preview.pdf",
     "Tecnologia_y_democracia/Zine/Boceto.md",
     "Tecnologia_y_democracia/Zine/Pendientes.md",
