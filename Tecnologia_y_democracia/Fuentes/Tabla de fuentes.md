@@ -38,9 +38,11 @@ On valuing freedom more than cushy jail cells by Doc Searls on August 25, 2007 G
 
 Saving Cyberspace by Doc Searls on April 18, 2002 gg
 
-Saving the Net by Doc Searls on July 22, 2003
+Saving the Net by Doc Searls on July 22, 2003 gg
 
 The New Economy Hack: Turning Consumers into Producers by Doc Searls
-on January 9, 2004
+on January 9, 2004 g
 
+Who Controls Your Data? by Doc Searls on May 11, 2008 g
 
+Whose Hand Is That in Your Pocket? Linux Journal by Doc Searls on July 1, 2001 gg
