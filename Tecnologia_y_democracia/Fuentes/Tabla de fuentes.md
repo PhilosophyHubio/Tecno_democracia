@@ -33,6 +33,6 @@ Every usar a Neo 2028
 
 Hacking Democracy by Doc Searls on June 1, 2004
 
-
+On valuing freedom more than cushy jail cells by Doc Searls on August 25, 2007 GGG
 
 
