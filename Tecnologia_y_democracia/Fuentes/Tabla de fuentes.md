@@ -40,5 +40,7 @@ Saving Cyberspace by Doc Searls on April 18, 2002 gg
 
 Saving the Net by Doc Searls on July 22, 2003
 
+The New Economy Hack: Turning Consumers into Producers by Doc Searls
+on January 9, 2004
 
 
