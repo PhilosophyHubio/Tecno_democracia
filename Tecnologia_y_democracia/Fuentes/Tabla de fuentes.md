@@ -21,12 +21,37 @@
 # Por tema
 
 ### Tecnovasallismo
+
+
+| Titulo                                                                                                                                             | L   | U   |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- |
+| **Stallman, Richard (2004)** — _Software libre para una sociedad libre_                                                                            |     |     |
+| **Barbrook, Richard y Cameron, Andy (1996)** — _La ideología californiana_                                                                         | L   | g   |
+| “Somos tecnosiervos” y “en el espacio electrónico no hay libertad”: la advertencia del filósofo español Javier Echeverría                          | L   | GGG |
+| Medina, Eden. Revolucionarios cibernéticos: tecnología y política en el Chile de Salvador Allende. Santiago de Chile: LOM Ediciones, 2013, 356 pp. | L   | GG  |
+| **Suber, Peter (2015)** — _Acceso Abierto (Open Access)_.                                                                                          |     |     |
+
+
 **Stallman, Richard (2004)** — _Software libre para una sociedad libre_
 
 **Barbrook, Richard y Cameron, Andy (1996)** — _La ideología californiana_ 
 
+“Somos tecnosiervos” y “en el espacio electrónico no hay libertad”: la advertencia del filósofo español Javier Echeverría
 
-### Linux Journal Doc Sears
+Medina, Eden. Revolucionarios cibernéticos: tecnología y política en el Chile de Salvador Allende. Santiago de Chile: LOM Ediciones, 2013, 356 pp.
+
+**Suber, Peter (2015)** — _Acceso Abierto (Open Access)_.
+
+
+#### Linux Journal Doc Sears
+
+
+| Titulo                                                    | L   | U   |
+| --------------------------------------------------------- | --- | --- |
+| <br>A Line in the Sand by Doc Searls on February 13, 2019 |     |     |
+| Hacking Democracy by Doc Searls on June 1, 2004           |     |     |
+|                                                           |     |     |
+
 
 A Line in the Sand by Doc Searls on February 13, 2019
 
@@ -49,3 +74,4 @@ Hacking Democracy by Doc Searls on June 1, 2004
 ==Whose Hand Is That in Your Pocket? Linux Journal by Doc Searls on July 1, 2001 gg==
 
 Beyond Horse Races and Boxing Matches by Doc Searls on May 6, 2004
+
