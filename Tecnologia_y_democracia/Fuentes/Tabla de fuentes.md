@@ -46,11 +46,17 @@ Medina, Eden. Revolucionarios cibernéticos: tecnología y política en el Chile
 #### Linux Journal Doc Sears
 
 
-| Titulo                                                    | L   | U   |
-| --------------------------------------------------------- | --- | --- |
-| <br>A Line in the Sand by Doc Searls on February 13, 2019 |     |     |
-| Hacking Democracy by Doc Searls on June 1, 2004           |     |     |
-|                                                           |     |     |
+| Titulo                                                                                     | L   | U   |
+| ------------------------------------------------------------------------------------------ | --- | --- |
+| <br>A Line in the Sand by Doc Searls on February 13, 2019                                  | L   |     |
+| Hacking Democracy by Doc Searls on June 1, 2004                                            | L   |     |
+| On valuing freedom more than cushy jail cells by Doc Searls on August 25, 2007             | L   | GGG |
+| Saving Cyberspace by Doc Searls on April 18, 2002                                          | L   | gg  |
+| Saving the Net by Doc Searls on July 22, 2003 gg                                           | L   | gg  |
+| The New Economy Hack: Turning Consumers into Producers by Doc Searls<br>on January 9, 2004 | L   | g   |
+| Who Controls Your Data? by Doc Searls on May 11, 2008                                      | L   | g   |
+| Whose Hand Is That in Your Pocket? Linux Journal by Doc Searls on July 1, 2001             | L   | gg  |
+| eyond Horse Races and Boxing Matches by Doc Searls on May 6, 2004                          | L   |     |
 
 
 A Line in the Sand by Doc Searls on February 13, 2019
@@ -60,18 +66,18 @@ Every usar a Neo 2028
 
 Hacking Democracy by Doc Searls on June 1, 2004
 
-==On valuing freedom more than cushy jail cells by Doc Searls on August 25, 2007 GGG==
+On valuing freedom more than cushy jail cells by Doc Searls on August 25, 2007 GGG
 
-==Saving Cyberspace by Doc Searls on April 18, 2002 gg==
+Saving Cyberspace by Doc Searls on April 18, 2002 gg
 
-==Saving the Net by Doc Searls on July 22, 2003 gg==
+Saving the Net by Doc Searls on July 22, 2003 gg
 
-==The New Economy Hack: Turning Consumers into Producers by Doc Searls==
-==on January 9, 2004 g==
+The New Economy Hack: Turning Consumers into Producers by Doc Searls
+on January 9, 2004 g
 
-==Who Controls Your Data? by Doc Searls on May 11, 2008 g==
+Who Controls Your Data? by Doc Searls on May 11, 2008 g
 
-==Whose Hand Is That in Your Pocket? Linux Journal by Doc Searls on July 1, 2001 gg==
+Whose Hand Is That in Your Pocket? Linux Journal by Doc Searls on July 1, 2001 gg
 
 Beyond Horse Races and Boxing Matches by Doc Searls on May 6, 2004
 
