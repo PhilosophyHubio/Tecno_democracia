@@ -48,7 +48,7 @@ Medina, Eden. Revolucionarios cibernéticos: tecnología y política en el Chile
 
 | Titulo                                                                                     | L   | U   |
 | ------------------------------------------------------------------------------------------ | --- | --- |
-| <br>A Line in the Sand by Doc Searls on February 13, 2019                                  | L   |     |
+| A Line in the Sand by Doc Searls on February 13, 2019                                      | L   |     |
 | Hacking Democracy by Doc Searls on June 1, 2004                                            | L   |     |
 | On valuing freedom more than cushy jail cells by Doc Searls on August 25, 2007             | L   | GGG |
 | Saving Cyberspace by Doc Searls on April 18, 2002                                          | L   | gg  |
@@ -58,6 +58,13 @@ Medina, Eden. Revolucionarios cibernéticos: tecnología y política en el Chile
 | Whose Hand Is That in Your Pocket? Linux Journal by Doc Searls on July 1, 2001             | L   | gg  |
 | eyond Horse Races and Boxing Matches by Doc Searls on May 6, 2004                          | L   |     |
 
+
+https://www.linuxjournal.com/content/valuing-freedom-more-cushy-jail-cells
+https://www.linuxjournal.com/article/6006
+https://www.linuxjournal.com/article/6989
+https://www.linuxjournal.com/article/7345
+https://www.linuxjournal.com/content/who-controls-your-data
+https://www.linuxjournal.com/article/4735
 
 A Line in the Sand by Doc Searls on February 13, 2019
 

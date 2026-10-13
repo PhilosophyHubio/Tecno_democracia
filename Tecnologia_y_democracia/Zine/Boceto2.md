@@ -19,10 +19,18 @@ Nueva estructura de contenidos:
 
 - [ ] Aldea digital 
 - [ ] Tecno vasallismo
-- [ ] La catedral y el bazar
-- [ ] Torre de marfil
-- [ ] Señores feudales
-- [ ] Amenaza a la democracia
+	- [ ] las advertencias
+	- [ ] la conquista
+	- [ ] lo que pudo haber sido 
+- [ ] Los señores (tecno) feudales
+	- [ ] La experiencia Manufacturada
+	- [ ] Un empujoncito
+- [ ] La catedral y el bazaar
+	- [ ] Mas allá del software, libertad
+- [ ] La Torre de marfil
+	- [ ] Salir de la Torre y abrir la catedral 
+- [ ] La democracia
+	- [ ] Las trincheras
 
 
 # Contenido
@@ -35,30 +43,54 @@ La aldea digital somos todos nosotros los que ***interactuamos*** en y con las p
 
 ¿Cómo se ve una democracia multicultural entre tantos aldeanos digitales? ¿Qué retos, beneficios y contradicciones surgen de estas interacciones? 
 
-...?
+//..?
 
 ## Tecnovasallos
 
-%% Como elegimos colectivamente ser vasallos y como había otras opciones --> Tecnofeudalismo%%
+Ha habido un cambio en la manera en la que interactuamos en el *ciberespacio,* en la influencia que tiene este sobre nuestras vidas y la posición que ocupamos en el. Si el espacio electrónico es uno de dominación, entonces quienes lo habitan son los que dominan (señores tecnofeudales) y los dominados: Los ***tecnovasallos.***
+#### **Las advertencias**
+
+Hay multiples escritos de hackers, aficionados a la tecnología y otros usuarios que asemejan advertencias de lo que vendría en el horizonte del ciberespacio. Un ejemplo tan temprano como 2001, es el articulo de Doc Searls "Whose Hand Is That in Your Pocket?" donde se externa la sospecha de Joel Spolsky sobre el reciente Microsoft Passport:
+
+	"Me parece un intento bastante descarado de crear la base de datos de consumidores más grande y completa del mundo para, a continuación, obtener beneficios fabulosos explotándola." (Doc Searls, 2001) 
+
+Actualmente la recopilación de datos de usuarios con fines lucrativos es lejos de ser una anomalía.
+
+Otros artículos de Searls (particularmente en The Linux Journal) advierten de riesgos y tendencias que mas tarde se materializarían en el ciberespacio: La configuración del internet en "jardines amurallados" y "silos corporativos" (plataformas cerradas donde las empresas controlan las interacciones de los usuarios, imponen las condiciones de uso y gestionan a los usuarios como se haría con el ganado) tendría por consecuencia que los usuarios se encontraran cautivos en estas plataformas, principalmente por la dependencia forzada. 
+
+Un tecnovasallo carece de las herramientas para no depender del ecosistema digital en el que esta cautivo, no es dueño de sus dispositivos, ni de sus datos y sus interacciones quedan reducidas a lo permitido en los jardines amurallados. 
+#### **La conquista**
+
+Javier Echeverria quien plantea el termino "tecnovasallo" también detalla la conquista de internet como el momento pivotal en el que se le abdica la responsabilidad de construir las infraestructuras del internet a las grandes corporaciones. Este momento corresponde con la cumbre mundial de la sociedad de la información, organizada por la ONU en conjunto con la organización internacional de de telecomunicaciones y la intervención de integrantes de la sociedad civil.  A juicio de Echeverria, la ONU dimite de aplicar la noción de los derechos humanos al ciberespacio. 
+
+A consecuencia, la responsabilidad de llevar la democracia al ciberespacio que hasta ese momento recaía sobre los estados pasa a manos de las grandes empresas tecnológicas.  Estas rápidamente moldean el paisaje cibernético y adquieren cantidades monumentales de poder e influencia. 
+
+#### **Lo que pudo haber sido**
+
+%% %%
 
 
-Podcast Echeverria: La cumbre mundial de la sociedad de la informacion, organizada por la ONU con la organizacion internacional de de telecomunicaciones.
-Finales de los noventa, web 2.0. independencia del ciberespacio.
+## Los señores (Tecno) Feudales
 
-Intervencion de integrantes de la sociedad civil. Ginebra 2003 tunez 2005
+En la Edad Media, los señores feudales eran dueños de las tierras y las riquezas, los aldeanos trabajaban la tierra del señor feudal a cambio de protección y una porción del fruto de su trabajo. La situación de los aldeanos digitales no es muy diferente. 
 
-14:57
-La onu dimite de su responsdabilidad, no aplica la nocion de derechos humanos al cyber espacio, extiendase de los espaciops urbanos o de los paiseas al espacio electronico.
-Los estados pasaron de llevar la democracia al espacio electronico, y se lleva al campo de las empresas. Las empresas se quedan con la tarea de construir las infraestructuras mundiales de internet. --> conquista de internet. 
+Hoy las grandes empresas son dueñas de los espacios digitales en los cuales los usuarios crean valor (publicaciones, productos en venta, datos, etc.) se benefician del valor producido e imponen sus reglas: cambian **algoritmos**, cobran de repente, o desaparecen tu cuenta.
 
+El señor tecno-feudal tiene control total de la información, comunicación y servicios que intercambian los usuarios de sus tecnologías. Este control permite manufacturar la experiencia del usuario según lo que mejor convenga al señor feudal. **El tecno feudalismo es el sistema que le permite hacerlo.** 
 
-Google se hace con la nevacion de internet y adquiere un poder gigantezco. 
+#### **La experiencia manufacturada**
 
-surgimiento de redes sociales en 2006 2005
+Promocionar un producto por encima de otro, mostrar tales o cuales opiniones, noticias y contenidos son decisiones tomadas algorítmicamente por quien tiene el control de las plataformas. 
 
+Una experiencia personalizada para el usuario (y cuidadosamente manufacturada para beneficio del señor feudal) permite manipular al usuario de manera discreta mediante lo que se pone en pantalla. Las decisiones que tomamos según lo que se nos presenta se sienten como nuestras pero son en realidad, **influenciadas.** 
 
+#### **Un empujoncito**
 
-...
+Cuando unos pocos tienen la capacidad de influenciar las decisiones y comportamientos de millones de personas a empujoncitos digitales apenas perceptibles que evaden el pensamiento critico del usuario se corren riesgos mucho mas significativos que hacer un par de compras impulsivas: Amenaza nuestro desarrollo personal, social y democrático.
+
+Quien es manipulado pierde la capacidad de controlar su vida y sus decisiones. El panorama en el que millones de personas son influenciadas por un sistema centralizado de manipulación superinteligente plantea un escenario hostil a la democracia.
+
+Sin embargo, **las cosas no tienen porque ser de esta forma.** 
 
 ## La catedral y el bazar
 %% Sistemas centralizados vs %%
@@ -68,7 +100,7 @@ Para que una tecnología sea de utilidad a un señor feudal esta debe de estar c
 
 Al momento de desarrollar software, podemos distinguir dos modelos de desarrollo según lo que plantea Eric S. Raymond en "The Cathedral and the bazar". En este libro Eric distingue por un lado el desarrollo tipo "catedral", en el que un grupo pequeño de desarrolladores trabaja de forma centralizada para publicar actualizaciones cada tanto tiempo. Y por el otro el desarrollo tipo "bazar" propio del software libre, en el cual se invita al mayor numero de personas posibles a colaborar, revisar y experimentar con el código.
 
- #### **Más allá del software, libertad**.
+ #### **Más allá del software, libertad**
  
 La clave detrás del éxito del desarrollo tipo bazar consiste fundamentalmente en la colaboración entre pares y la pluralidad de ideas. Esto se ejemplifica en la "Ley de Linus" que Eric describe como "dados suficientes ojos, todos los errores son triviales" en referencia a que dada una cantidad suficiente de personas trabajando en el código de un programa, la solución a cualquier error que tenga va a parecerle evidente a alguien. (Raymond, n.d.)
 
@@ -97,32 +129,9 @@ El científico que sale de la torre de marfil no puede desentenderse del uso que
 
 La ciencia no tiene porque seguir la estructura de la catedral ni debe existir aislada en una torre de marfil. Una ciencia que invite a la colaboración, revisión y a la transparencia y acceso de sus datos "tipo bazar" es una alternativa que democratiza la información e invita a la participación (además de beneficiarse de la "ley de Linus")
 
-Para construir una ciencia y tecnología democrática, que sierva a los intereses de la aldea digital y no al de los señores feudales el científico que sale de la torre de marfil debe reconocerse ante todo como un facilitador que co-crea *el conocimiento* mediante de el diálogo de *diferentes conocimientos* sin tachar a lo *no-científico* de simple *brujería* sino apreciando los diversos tipos de saberes. 
+Para construir una ciencia y tecnología democrática, que sirva a los intereses de la aldea digital y no al de los señores feudales el científico que sale de la torre de marfil debe reconocerse ante todo como un facilitador que co-crea *el conocimiento* mediante de el diálogo de *diferentes conocimientos* sin tachar a lo *no-científico* de simple *brujería* sino apreciando los diversos tipos de saberes. 
 
 La ciencia que necesita la aldea digital no es la que fabrica *empujoncitos*, sino la que enseña a ver los hilos del titiritero.
-
-
-## Los señores (Tecno) Feudales
-
-En la Edad Media, los señores feudales eran dueños de las tierras y las riquezas, los aldeanos trabajaban la tierra del señor feudal a cambio de protección y una porción del fruto de su trabajo. La situación de los aldeanos digitales no es muy diferente. 
-
-Hoy las grandes empresas son dueñas de los espacios digitales en los cuales los usuarios crean valor (publicaciones, productos en venta, datos, etc.) se benefician del valor producido e imponen sus reglas: cambian **algoritmos**, cobran de repente, o desaparecen tu cuenta.
-
-El señor tecno-feudal tiene control total de la información, comunicación y servicios que intercambian los usuarios de sus tecnologías. Este control permite manufacturar la experiencia del usuario según lo que mejor convenga al señor feudal. **El tecno feudalismo es el sistema que le permite hacerlo.** 
-
-#### **La experiencia manufacturada**
-
-Promocionar un producto por encima de otro, mostrar tales o cuales opiniones, noticias y contenidos son decisiones tomadas algorítmicamente por quien tiene el control de las plataformas. 
-
-Una experiencia personalizada para el usuario (y cuidadosamente manufacturada para beneficio del señor feudal) permite manipular al usuario de manera discreta mediante lo que se pone en pantalla. Las decisiones que tomamos según lo que se nos presenta se sienten como nuestras pero son en realidad, **influenciadas.** 
-
-#### **Un empujoncito**
-
-Cuando unos pocos tienen la capacidad de influenciar las decisiones y comportamientos de millones de personas a empujoncitos digitales apenas perceptibles que evaden el pensamiento critico del usuario se corren riesgos mucho mas significativos que hacer un par de compras impulsivas: Amenaza nuestro desarrollo personal, social y democrático.
-
-Quien es manipulado pierde la capacidad de controlar su vida y sus decisiones. El panorama en el que millones de personas son influenciadas por un sistema centralizado de manipulación superinteligente plantea un escenario hostil a la democracia.
-
-Sin embargo, **las cosas no tienen porque ser de esta forma.** 
 
 
 ## La democracia

@@ -55,7 +55,8 @@
               "title": "Boceto2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,10 +231,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "501291f282a9f679",
+  "active": "15f4bd575f40caa2",
   "lastOpenFiles": [
-    "Tecnologia_y_democracia/Zine/Boceto2.md",
     "Tecnologia_y_democracia/Fuentes/Tabla de fuentes.md",
+    "Tecnologia_y_democracia/Zine/Boceto2.md",
     "Tecnologia_y_democracia/Zine/Preview.pdf",
     "Tecnologia_y_democracia/Zine/Boceto.md",
     "Tecnologia_y_democracia/Zine/Pendientes.md",
