@@ -23,6 +23,8 @@
 ### Tecnovasallismo
 
 
+#### En general
+
 | Titulo                                                                                                                                             | L   | U   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- |
 | **Stallman, Richard (2004)** — _Software libre para una sociedad libre_                                                                            |     |     |
@@ -31,16 +33,6 @@
 | Medina, Eden. Revolucionarios cibernéticos: tecnología y política en el Chile de Salvador Allende. Santiago de Chile: LOM Ediciones, 2013, 356 pp. | L   | GG  |
 | **Suber, Peter (2015)** — _Acceso Abierto (Open Access)_.                                                                                          |     |     |
 
-
-**Stallman, Richard (2004)** — _Software libre para una sociedad libre_
-
-**Barbrook, Richard y Cameron, Andy (1996)** — _La ideología californiana_ 
-
-“Somos tecnosiervos” y “en el espacio electrónico no hay libertad”: la advertencia del filósofo español Javier Echeverría
-
-Medina, Eden. Revolucionarios cibernéticos: tecnología y política en el Chile de Salvador Allende. Santiago de Chile: LOM Ediciones, 2013, 356 pp.
-
-**Suber, Peter (2015)** — _Acceso Abierto (Open Access)_.
 
 
 #### Linux Journal Doc Sears
@@ -59,13 +51,6 @@ Medina, Eden. Revolucionarios cibernéticos: tecnología y política en el Chile
 | eyond Horse Races and Boxing Matches by Doc Searls on May 6, 2004                          | L   |     |
 
 
-https://www.linuxjournal.com/content/valuing-freedom-more-cushy-jail-cells
-https://www.linuxjournal.com/article/6006
-https://www.linuxjournal.com/article/6989
-https://www.linuxjournal.com/article/7345
-https://www.linuxjournal.com/content/who-controls-your-data
-https://www.linuxjournal.com/article/4735
-
 A Line in the Sand by Doc Searls on February 13, 2019
 
 Every usar a Neo 2028
@@ -73,18 +58,34 @@ Every usar a Neo 2028
 
 Hacking Democracy by Doc Searls on June 1, 2004
 
-On valuing freedom more than cushy jail cells by Doc Searls on August 25, 2007 GGG
+On valuing freedom more than cushy jail cells by Doc Searls on August 25, 2007
+https://www.linuxjournal.com/content/valuing-freedom-more-cushy-jail-cells
 
-Saving Cyberspace by Doc Searls on April 18, 2002 gg
+Saving Cyberspace by Doc Searls on April 18, 2002
+https://www.linuxjournal.com/article/6006
 
-Saving the Net by Doc Searls on July 22, 2003 gg
+Saving the Net by Doc Searls on July 22, 2003
+https://www.linuxjournal.com/article/6989
 
 The New Economy Hack: Turning Consumers into Producers by Doc Searls
-on January 9, 2004 g
+on January 9, 2004
+https://www.linuxjournal.com/article/7345
 
-Who Controls Your Data? by Doc Searls on May 11, 2008 g
+Who Controls Your Data? by Doc Searls on May 11, 2008
+https://www.linuxjournal.com/content/who-controls-your-data
 
-Whose Hand Is That in Your Pocket? Linux Journal by Doc Searls on July 1, 2001 gg
+Whose Hand Is That in Your Pocket? Linux Journal by Doc Searls on July 1, 2001
+https://www.linuxjournal.com/article/4735
 
 Beyond Horse Races and Boxing Matches by Doc Searls on May 6, 2004
 
+
+
+
+
+
+#### Lo que pudo haber sido
+
+
+
+### Ciencia - feudalismo
