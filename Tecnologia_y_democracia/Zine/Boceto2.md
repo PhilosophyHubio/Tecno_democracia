@@ -1,5 +1,6 @@
 *Título tentativo: Señores feudales, torres de marfil y aldeanos digitales**
 
+Ciencia, tecnología, sociedad y democracia en tiempos del tecno feudalismo. 
 # Estructura:
 
 Zine de 3 hojas, con 10 páginas portada y contraportada. 
@@ -17,22 +18,39 @@ Contraportada: Fuentes, ligas, etc.
 
 Nueva estructura de contenidos:
 
+- [x] Aldea digital 
+- [ ] Tecno vasallismo
+	- [x] las advertencias
+	- [x] la conquista
+	- [ ] lo que pudo haber sido 
+- [x] Los señores (tecno) feudales
+	- [x] La experiencia manufacturada
+	- [x] Un empujoncito
+- [x] La catedral y el bazaar
+	- [x] Mas allá del software, libertad
+- [ ] La Torre de marfil
+	- [ ] Ciencia-Feudalismo
+	- [ ] Salir de la torre y abrir la catedral 
+- [ ] La democracia
+	- [ ] Las trincheras
+
+Revisar fuentes:
+
 - [ ] Aldea digital 
 - [ ] Tecno vasallismo
 	- [ ] las advertencias
 	- [ ] la conquista
 	- [ ] lo que pudo haber sido 
 - [ ] Los señores (tecno) feudales
-	- [ ] La experiencia Manufacturada
+	- [ ] La experiencia manufacturada
 	- [ ] Un empujoncito
 - [ ] La catedral y el bazaar
 	- [ ] Mas allá del software, libertad
 - [ ] La Torre de marfil
-	- [ ] Salir de la Torre y abrir la catedral 
+	- [ ] Ciencia-Feudalismo
+	- [ ] Salir de la torre y abrir la catedral 
 - [ ] La democracia
 	- [ ] Las trincheras
-
-
 # Contenido
 ## La aldea digital
 %% Foreword / Panorama %%
@@ -47,10 +65,10 @@ La aldea digital somos todos nosotros los que ***interactuamos*** en y con las p
 
 ## Tecnovasallos
 
-Ha habido un cambio en la manera en la que interactuamos en el *ciberespacio,* en la influencia que tiene este sobre nuestras vidas y la posición que ocupamos en el. Si el espacio electrónico es uno de dominación, entonces quienes lo habitan son los que dominan (señores tecnofeudales) y los dominados: Los ***tecnovasallos.***
+La manera en la que interactuamos en el *ciberespacio,*  la influencia que tiene este sobre nuestras vidas y la posición que ocupamos en el ha cambiado. Si el espacio electrónico es uno de dominación, entonces quienes lo habitan son los que dominan (señores tecnofeudales) y los dominados: Los ***tecnovasallos.***
 #### **Las advertencias**
 
-Hay multiples escritos de hackers, aficionados a la tecnología y otros usuarios que asemejan advertencias de lo que vendría en el horizonte del ciberespacio. Un ejemplo tan temprano como 2001, es el articulo de Doc Searls "Whose Hand Is That in Your Pocket?" donde se externa la sospecha de Joel Spolsky sobre el reciente Microsoft Passport:
+Hay multiples escritos de hackers, aficionados a la tecnología y otros usuarios que asemejan advertencias de lo que después se asomaría en el horizonte del ciberespacio. Un ejemplo tan temprano como 2001, es el articulo de Doc Searls "Whose Hand Is That in Your Pocket?" donde se externa la sospecha de Joel Spolsky sobre el reciente Microsoft Passport:
 
 	"Me parece un intento bastante descarado de crear la base de datos de consumidores más grande y completa del mundo para, a continuación, obtener beneficios fabulosos explotándola." (Doc Searls, 2001) 
 
@@ -68,6 +86,11 @@ A consecuencia, la responsabilidad de llevar la democracia al ciberespacio que h
 #### **Lo que pudo haber sido**
 
 %% %%
+
+En cierta manera, la elección de los jardines amurallados sobre la libertad en el ciberespacio fue una decisión colectiva. Mas allá de la cumbre mundial de la información y las acciones de la ONU,  el rechazo a las alternativas de arquitectura abierta y gobernanza descentralizada
+
+- que alternativas se plantearon
+- porque valió kso :(
 
 
 ## Los señores (Tecno) Feudales
@@ -93,8 +116,6 @@ Quien es manipulado pierde la capacidad de controlar su vida y sus decisiones. E
 Sin embargo, **las cosas no tienen porque ser de esta forma.** 
 
 ## La catedral y el bazar
-%% Sistemas centralizados vs %%
-%% Centralismo, desarrollo abierto, software libre, colaboración, ciencia ciudadana, etc. %%
 
 Para que una tecnología sea de utilidad a un señor feudal esta debe de estar centralizada, es decir, debe de obedecer una jerarquía que permita que la toma de decisiones recaiga en una autoridad central.  De esta manera, el diseño mismo de las funciones de dicha tecnología gira en torno al beneficio de quien es dueño de ella. 
 
@@ -110,14 +131,11 @@ El software propietario funciona muchas veces como una caja negra, en donde el u
 
 Por otro lado, el software libre es completamente transparente en su funcionamiento y se invita a los usuarios a volverse colaboradores, modificarlo según sus necesidades y compartir sus propuestas. 
 
-La gran lección del software libre es que existen formas alternas de construir tecnología: mediante la comunidad, acorde a los gustos y necesidades de los usuarios y de forma libre y respetuosa a estos.
-
+La gran lección del software libre es que existen formas alternas de construir tecnología: mediante la comunidad, acorde a los gustos y necesidades de los usuarios y de forma libre y respetuosa a estos. **Estas son las alternativas que permiten al tecnovasallo dejar de serlo.** 
 
 ## La torre de marfil
 
 %% Relaciones entre ciencia y sociedad, pluralismo y cientificismo, etc. y ciencia y tecnología. %%
-%% Ciencia-feudalismo , estructura feudal de la ciencia. %%
-%%Dewey diferencias de grado, Harding. %%
 
 La Torre de Marfil como metáfora del lugar en que habitan científicos e investigadores, desconectados del resto de la sociedad y ocupándose ensimismados en labores abstractas e incomprensibles surge en parte en el contexto de una sociedad americana que se enfrenta a la segunda guerra mundial y que celebra la salida de sus científicos de la torre de marfil para dedicar su trabajo a la elaboración de la tecnología (principalmente armas) que definirá eventualmente el curso de la guerra y de lo que seguiría después de esta. (Shapin, 2012)
 
@@ -125,7 +143,15 @@ La ciencia dentro de una torre de marfil es para la sociedad indescifrable, abst
 
 El científico que sale de la torre de marfil no puede desentenderse del uso que se le da a su conocimiento. Debe de ser consciente de que el sujeto e su investigación, la manera en que lo comunica y con quién colabora tiene un efecto directo. Una ciencia responsable busca investigar y diseñar mecanismos y tecnologías que favorezcan la transparencia, autonomía y participación del publico. 
 
+#### **Ciencia-feudalismo**
+%% Ciencia-feudalismo , estructura feudal de la ciencia. %%
+%%Dewey diferencias de grado, Harding. %%
+
+xxxx
 #### **Salir de la torre y abrir la catedral**
+%% Sistemas centralizados vs %%
+%% Centralismo, desarrollo abierto, software libre, colaboración, ciencia ciudadana, etc. %%
+%% Análogo al tecnovasallismo vs bazaar%%
 
 La ciencia no tiene porque seguir la estructura de la catedral ni debe existir aislada en una torre de marfil. Una ciencia que invite a la colaboración, revisión y a la transparencia y acceso de sus datos "tipo bazar" es una alternativa que democratiza la información e invita a la participación (además de beneficiarse de la "ley de Linus")
 
