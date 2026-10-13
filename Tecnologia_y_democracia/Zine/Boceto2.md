@@ -74,12 +74,12 @@ Hay multiples escritos de hackers, aficionados a la tecnología y otros usuarios
 
 Actualmente la recopilación de datos de usuarios con fines lucrativos es lejos de ser una anomalía.
 
-Otros artículos de Searls (particularmente en The Linux Journal) advierten de riesgos y tendencias que mas tarde se materializarían en el ciberespacio: La configuración del internet en "jardines amurallados" y "silos corporativos" (plataformas cerradas donde las empresas controlan las interacciones de los usuarios, imponen las condiciones de uso y gestionan a los usuarios como se haría con el ganado) tendría por consecuencia que los usuarios se encontraran cautivos en estas plataformas, principalmente por la dependencia forzada. 
+Otros artículos de Searls (particularmente en The Linux Journal) advierten de riesgos y tendencias que mas tarde se materializarían en el ciberespacio: La configuración del internet en "jardines amurallados" y "silos corporativos" (plataformas cerradas donde las empresas controlan las interacciones de los usuarios, imponen las condiciones de uso y gestionan a los usuarios como se haría con el ganado) tendría por consecuencia que los usuarios se encontraran cautivos en estas plataformas, principalmente por la dependencia forzada.  (Doc Searls, 2001,2002, 2003, 2004,2007, 2008)
 
 Un tecnovasallo carece de las herramientas para no depender del ecosistema digital en el que esta cautivo, no es dueño de sus dispositivos, ni de sus datos y sus interacciones quedan reducidas a lo permitido en los jardines amurallados. 
 #### **La conquista**
 
-Javier Echeverria quien plantea el termino "tecnovasallo" también detalla la conquista de internet como el momento pivotal en el que se le abdica la responsabilidad de construir las infraestructuras del internet a las grandes corporaciones. Este momento corresponde con la cumbre mundial de la sociedad de la información, organizada por la ONU en conjunto con la organización internacional de de telecomunicaciones y la intervención de integrantes de la sociedad civil.  A juicio de Echeverria, la ONU dimite de aplicar la noción de los derechos humanos al ciberespacio. 
+Javier Echeverria quien plantea el termino "tecnovasallo" también detalla la conquista de internet como el momento pivotal en el que se le abdica la responsabilidad de construir las infraestructuras del internet a las grandes corporaciones. Este momento corresponde con la cumbre mundial de la sociedad de la información, organizada por la ONU en conjunto con la organización internacional de de telecomunicaciones y la intervención de integrantes de la sociedad civil.  A juicio de Echeverria, la ONU dimite de aplicar la noción de los derechos humanos al ciberespacio. (Lucia Barrios, 2026)
 
 A consecuencia, la responsabilidad de llevar la democracia al ciberespacio que hasta ese momento recaía sobre los estados pasa a manos de las grandes empresas tecnológicas.  Estas rápidamente moldean el paisaje cibernético y adquieren cantidades monumentales de poder e influencia. 
 
@@ -99,17 +99,17 @@ En la Edad Media, los señores feudales eran dueños de las tierras y las riquez
 
 Hoy las grandes empresas son dueñas de los espacios digitales en los cuales los usuarios crean valor (publicaciones, productos en venta, datos, etc.) se benefician del valor producido e imponen sus reglas: cambian **algoritmos**, cobran de repente, o desaparecen tu cuenta.
 
-El señor tecno-feudal tiene control total de la información, comunicación y servicios que intercambian los usuarios de sus tecnologías. Este control permite manufacturar la experiencia del usuario según lo que mejor convenga al señor feudal. **El tecno feudalismo es el sistema que le permite hacerlo.** 
+El señor tecno-feudal tiene control total de la información, comunicación y servicios que intercambian los usuarios de sus tecnologías. Este control permite manufacturar la experiencia del usuario según lo que mejor convenga al señor feudal. **El tecno feudalismo es el sistema que le permite hacerlo.** (Yanis Varoufakis, 2023)
 
 #### **La experiencia manufacturada**
 
 Promocionar un producto por encima de otro, mostrar tales o cuales opiniones, noticias y contenidos son decisiones tomadas algorítmicamente por quien tiene el control de las plataformas. 
 
-Una experiencia personalizada para el usuario (y cuidadosamente manufacturada para beneficio del señor feudal) permite manipular al usuario de manera discreta mediante lo que se pone en pantalla. Las decisiones que tomamos según lo que se nos presenta se sienten como nuestras pero son en realidad, **influenciadas.** 
+Una experiencia personalizada para el usuario (y cuidadosamente manufacturada para beneficio del señor feudal) permite manipular al usuario de manera discreta mediante lo que se pone en pantalla. Las decisiones que tomamos según lo que se nos presenta se sienten como nuestras pero son en realidad, **influenciadas.**  (Helbing et al., 2019)
 
 #### **Un empujoncito**
 
-Cuando unos pocos tienen la capacidad de influenciar las decisiones y comportamientos de millones de personas a empujoncitos digitales apenas perceptibles que evaden el pensamiento critico del usuario se corren riesgos mucho mas significativos que hacer un par de compras impulsivas: Amenaza nuestro desarrollo personal, social y democrático.
+Cuando unos pocos tienen la capacidad de influenciar las decisiones y comportamientos de millones de personas a empujoncitos digitales apenas perceptibles que evaden el pensamiento critico del usuario se corren riesgos mucho mas significativos que hacer un par de compras impulsivas: Amenaza nuestro desarrollo personal, social y democrático. (Helbing et al., 2019)
 
 Quien es manipulado pierde la capacidad de controlar su vida y sus decisiones. El panorama en el que millones de personas son influenciadas por un sistema centralizado de manipulación superinteligente plantea un escenario hostil a la democracia.
 
@@ -119,15 +119,15 @@ Sin embargo, **las cosas no tienen porque ser de esta forma.**
 
 Para que una tecnología sea de utilidad a un señor feudal esta debe de estar centralizada, es decir, debe de obedecer una jerarquía que permita que la toma de decisiones recaiga en una autoridad central.  De esta manera, el diseño mismo de las funciones de dicha tecnología gira en torno al beneficio de quien es dueño de ella. 
 
-Al momento de desarrollar software, podemos distinguir dos modelos de desarrollo según lo que plantea Eric S. Raymond en "The Cathedral and the bazar". En este libro Eric distingue por un lado el desarrollo tipo "catedral", en el que un grupo pequeño de desarrolladores trabaja de forma centralizada para publicar actualizaciones cada tanto tiempo. Y por el otro el desarrollo tipo "bazar" propio del software libre, en el cual se invita al mayor numero de personas posibles a colaborar, revisar y experimentar con el código.
+Al momento de desarrollar software, podemos distinguir dos modelos de desarrollo según lo que plantea Eric S. Raymond en "The Cathedral and the bazar". En este libro Eric distingue por un lado el desarrollo tipo "catedral", en el que un grupo pequeño de desarrolladores trabaja de forma centralizada para publicar actualizaciones cada tanto tiempo. Y por el otro el desarrollo tipo "bazar" propio del software libre, en el cual se invita al mayor numero de personas posibles a colaborar, revisar y experimentar con el código. (Raymond, 1999)
 
  #### **Más allá del software, libertad**
  
-La clave detrás del éxito del desarrollo tipo bazar consiste fundamentalmente en la colaboración entre pares y la pluralidad de ideas. Esto se ejemplifica en la "Ley de Linus" que Eric describe como "dados suficientes ojos, todos los errores son triviales" en referencia a que dada una cantidad suficiente de personas trabajando en el código de un programa, la solución a cualquier error que tenga va a parecerle evidente a alguien. (Raymond, n.d.)
+La clave detrás del éxito del desarrollo tipo bazar consiste fundamentalmente en la colaboración entre pares y la pluralidad de ideas. Esto se ejemplifica en la "Ley de Linus" que Eric describe como "dados suficientes ojos, todos los errores son triviales" en referencia a que dada una cantidad suficiente de personas trabajando en el código de un programa, la solución a cualquier error que tenga va a parecerle evidente a alguien. (Raymond, 1999)
 
 El desarrollo tipo bazar está asociado inseparablemente al software libre, que a su vez es un concepto mas allá de programas de computadoras. El origen del software libre se da como respuesta a las restricciones que impone el software propietario, tanto por razones prácticas como políticas y éticas. 
 
-El software propietario funciona muchas veces como una caja negra, en donde el usuario no tiene manera de saber que exactamente es lo que hace el programa, no puede abrir la caja ni aunque sea para repararla. Un ejemplo problemático sería un programa que, sin que el usuario lo sepa, recopila información de este y la almacena para venderla.
+El software propietario funciona muchas veces como una caja negra, en donde el usuario no tiene manera de saber que exactamente es lo que hace el programa, no puede abrir la caja ni aunque sea para repararla. Un ejemplo problemático sería un programa que, sin que el usuario lo sepa, recopila información de este y la almacena para venderla. (Adell & Bernabé, n.d.)
 
 Por otro lado, el software libre es completamente transparente en su funcionamiento y se invita a los usuarios a volverse colaboradores, modificarlo según sus necesidades y compartir sus propuestas. 
 
@@ -157,7 +157,7 @@ La ciencia no tiene porque seguir la estructura de la catedral ni debe existir a
 
 Para construir una ciencia y tecnología democrática, que sirva a los intereses de la aldea digital y no al de los señores feudales el científico que sale de la torre de marfil debe reconocerse ante todo como un facilitador que co-crea *el conocimiento* mediante de el diálogo de *diferentes conocimientos* sin tachar a lo *no-científico* de simple *brujería* sino apreciando los diversos tipos de saberes. 
 
-La ciencia que necesita la aldea digital no es la que fabrica *empujoncitos*, sino la que enseña a ver los hilos del titiritero.
+La ciencia que necesita la aldea digital no debe de fabricar *empujoncitos*, sino debe enseñar a ver los hilos del titiritero.
 
 
 ## La democracia

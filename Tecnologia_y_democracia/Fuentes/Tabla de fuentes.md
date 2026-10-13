@@ -86,6 +86,14 @@ Beyond Horse Races and Boxing Matches by Doc Searls on May 6, 2004
 
 #### Lo que pudo haber sido
 
+**Abbate, Janet (1999).** _Inventing the Internet_. MIT Press.
+**Wu, Tim (2010).** _The Master Switch: The Rise and Fall of Information Empires_. Alfred A. Knopf.
+
+
+**Hu, Tung-Hui (2015).** _A Prehistory of the Cloud_. MIT Press.
+**Schiller, Dan (1999).** _Digital Capitalism: Networking the Global Market System_. MIT Press.
+
+
 
 
 ### Ciencia - feudalismo
