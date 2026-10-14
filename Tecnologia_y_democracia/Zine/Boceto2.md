@@ -1,6 +1,4 @@
-*Título tentativo: Señores feudales, torres de marfil y aldeanos digitales**
-
-Ciencia, tecnología, sociedad y democracia en tiempos del tecno feudalismo. 
+*Título tentativo: **Señores feudales, torres de marfil y aldeanos digitales** Ciencia, tecnología, sociedad y democracia en tiempos de tecnofeudalismo. 
 # Estructura:
 
 Zine de 3 hojas, con 10 páginas portada y contraportada. 
@@ -28,9 +26,9 @@ Nueva estructura de contenidos:
 	- [x] Un empujoncito
 - [x] La catedral y el bazaar
 	- [x] Mas allá del software, libertad
-- [ ] La Torre de marfil
-	- [ ] Ciencia-Feudalismo
-	- [ ] Salir de la torre y abrir la catedral 
+- [x] La Torre de marfil
+	- [x] (Feudo) ciencia
+	- [x] Salir de la torre y abrir la catedral 
 - [ ] La democracia
 	- [ ] Las trincheras
 
@@ -47,7 +45,7 @@ Revisar fuentes:
 - [ ] La catedral y el bazaar
 	- [ ] Mas allá del software, libertad
 - [ ] La Torre de marfil
-	- [ ] Ciencia-Feudalismo
+	- [ ] (Feudo) ciencia
 	- [ ] Salir de la torre y abrir la catedral 
 - [ ] La democracia
 	- [ ] Las trincheras
@@ -84,8 +82,6 @@ Javier Echeverria quien plantea el termino "tecnovasallo" también detalla la co
 A consecuencia, la responsabilidad de llevar la democracia al ciberespacio que hasta ese momento recaía sobre los estados pasa a manos de las grandes empresas tecnológicas.  Estas rápidamente moldean el paisaje cibernético y adquieren cantidades monumentales de poder e influencia. 
 
 #### **Lo que pudo haber sido**
-
-%% %%
 
 En cierta manera, la elección de los jardines amurallados sobre la libertad en el ciberespacio fue una decisión colectiva. Mas allá de la cumbre mundial de la información y las acciones de la ONU, 
 la preferencia por la aparente conveniencia, usabilidad, eficiencia y estabilidad que ofrecen los jardines amurallados sobre las alternativas de arquitectura abierta y gobernanza descentralizada ha sido general entre los usuarios. La preferencia hacia las grandes plataformas permite e las grandes corporaciones desplazar o absorber las alternativas abiertas. 
@@ -148,7 +144,11 @@ El científico que sale de la torre de marfil no puede desentenderse del uso que
 
 Las relaciones feudales se extienden no solo en el campo del ciberespacio, las plataformas y los usuarios. La labor científica tiene la responsabilidad social de no desafanarse del uso que se le da a los productos que desarrolla, por ejemplo los algoritmos y protocolos al servicio de los señores feudales, sin embargo, la ciencia misma debe también de ocuparse de no replicar las estructuras feudales o de poder y dominación dentro de sus propias prácticas. 
 
-Tanto los sistemas de dominación como la practica científica operan bajo la promesa de eficiencia, progreso y razón. Si bien 
+Los sistemas de dominación propios del tecno feudalismo operan mediante una serie de simulaciones y promesas: la promesa del progreso, la eficiencia y la razón y la simulación de neutralidad entre otros. La filósofa Sandra Harding hace la observación que estas mismas han sido utilizadas para camuflar el ejercicio de poder en la ciencia. 
+
+Para Harding la practica científica hegemónica se ha escudado en una neutralidad técnica esconder un sesgo hacia los interés de grupos dominantes (como intereses militares, androcéntricos y eurocéntricos) Argumenta a su vez que las normas que buscan desvincular el conocimiento de los valores sociales suelen terminar protegiendo las jerarquías existentes.(S. Harding, 2006; S. G. Harding, 1991)
+
+Como alternativa, Harding propone (entre otras cosas) el compromiso explicito de la ciencia con la justicia social, la equidad y la rendición de cuentas. En este contexto su *teoría del punto de vista* invita a considerar el conocimiento como situado e influenciado en su contexto social  y promueve el estudiar "hacia arriba", es decir, desde la perspectiva de grupos marginados a manera de visibilizar los problemas e hipótesis que de otra manera serían invisibles ante la ciencia hegemónica.  (S. Harding, 2006; S. G. Harding, 1991)
 
 
 #### **Salir de la torre y abrir la catedral**
@@ -158,7 +158,7 @@ Tanto los sistemas de dominación como la practica científica operan bajo la pr
 
 La ciencia no tiene porque seguir la estructura de la catedral ni debe existir aislada en una torre de marfil. Una ciencia que invite a la colaboración, revisión y a la transparencia y acceso de sus datos "tipo bazar" es una alternativa que democratiza la información e invita a la participación (además de beneficiarse de la "ley de Linus")
 
-Para construir una ciencia y tecnología democrática, que sirva a los intereses de la aldea digital y no al de los señores feudales el científico que sale de la torre de marfil debe reconocerse ante todo como un facilitador que co-crea *el conocimiento* mediante de el diálogo de *diferentes conocimientos* sin tachar a lo *no-científico* de simple *brujería* sino apreciando los diversos tipos de saberes. 
+Para construir una ciencia y tecnología democrática, que sirva a los intereses de la aldea digital y no al de los señores feudales el científico que sale de la torre de marfil debe reconocerse ante todo como un facilitador que co-crea *el conocimiento* mediante de el diálogo de *diferentes conocimientos* sin tachar a lo *no-científico* de simple *brujería* sino apreciando los diversos tipos de saberes y perspectivas. 
 
 La ciencia que necesita la aldea digital no debe de fabricar *empujoncitos*, sino debe enseñar a ver los hilos del titiritero.
 

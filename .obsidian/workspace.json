@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Tecnologia_y_democracia/Notas/Feudalismo Tecnologico/Feudo-Ciencia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Feudo-Ciencia"
+            }
+          },
+          {
+            "id": "3aaad2b56cc76f0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Tecnologia_y_democracia/Fuentes/Tabla de fuentes.md",
                 "mode": "source",
                 "source": false,
@@ -37,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia_y_democracia/Zine/Boceto2.md",
+                "file": "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/Ciencia y democracia en sociedad multicultural.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Boceto2"
+              "title": "Ciencia y democracia en sociedad multicultural"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,10 +255,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "501291f282a9f679",
+  "active": "15f4bd575f40caa2",
   "lastOpenFiles": [
     "Tecnologia_y_democracia/Zine/Boceto2.md",
     "Tecnologia_y_democracia/Fuentes/Tabla de fuentes.md",
+    "Tecnologia_y_democracia/Notas/Feudalismo Tecnologico/Feudo-Ciencia.md",
     "Tecnologia_y_democracia/Zine/Preview.pdf",
     "Tecnologia_y_democracia/Zine/Boceto.md",
     "Tecnologia_y_democracia/Zine/Pendientes.md",
