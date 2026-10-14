@@ -146,7 +146,11 @@ El científico que sale de la torre de marfil no puede desentenderse del uso que
 %% Ciencia-feudalismo , estructura feudal de la ciencia. %%
 %%Dewey diferencias de grado, Harding. %%
 
-xxxx
+Las relaciones feudales se extienden no solo en el campo del ciberespacio, las plataformas y los usuarios. La labor científica tiene la responsabilidad social de no desafanarse del uso que se le da a los productos que desarrolla, por ejemplo los algoritmos y protocolos al servicio de los señores feudales, sin embargo, la ciencia misma debe también de ocuparse de no replicar las estructuras feudales o de poder y dominación dentro de sus propias prácticas. 
+
+Tanto los sistemas de dominación como la practica científica operan bajo la promesa de eficiencia, progreso y razón. Si bien 
+
+
 #### **Salir de la torre y abrir la catedral**
 %% Sistemas centralizados vs %%
 %% Centralismo, desarrollo abierto, software libre, colaboración, ciencia ciudadana, etc. %%
@@ -162,7 +166,7 @@ La ciencia que necesita la aldea digital no debe de fabricar *empujoncitos*, sin
 ## La democracia
 %% relación ciencia- democracia, tecnología - ciencia y tecnología - democracia, retos opciones y conclusion / llamado a acción %%
 
-¿A qué se enfrenta la democracia? Cuando las noticias, opiniones y contenidos pasan por un intermediario que define que es lo que se muestra y lo que no, cuando el algoritmo nos muestra exclusivamente aquello con lo que sabe que estamos de acuerdo o aquello por lo que pagó un tercero para que viéramos.  tan libre es nuestro acceso a la información?  ¿Qué tan ***nuestras*** son nuestras decisiones? ¿Qué sucede cuando empujoncito a empujoncito, se manipula la opinion de millones de personas sin que tengan la menor idea? ¿Cuándo se vigila constantemente a los usuarios?
+¿A qué se enfrenta la democracia? Cuando las noticias, opiniones y contenidos pasan por un intermediario que define que es lo que se muestra y lo que no, cuando el algoritmo nos muestra exclusivamente aquello con lo que sabe que estamos de acuerdo o aquello por lo que pagó un tercero para que viéramos ¿Qué tan libre es nuestro acceso a la información?  ¿Qué tan ***nuestras*** son nuestras decisiones? ¿Qué sucede cuando empujoncito a empujoncito, se manipula la opinion de millones de personas sin que tengan la menor idea? ¿Cuándo se vigila constantemente a los usuarios?
 
 El feudalismo tecnológico plantea un escenario perfecto para la manipulation sistémica mediante la desinformación, cámaras de resonancia, polarización, etc. ¿Qué tan libre es aquel que ha sido manipulado? ¿Qué tan democrática puede ser una sociedad cuya experiencia es manufacturada por señores tecno feudales? 
 
@@ -170,8 +174,12 @@ El feudalismo tecnológico plantea un escenario perfecto para la manipulation si
 
 Si se amenaza a la democracia, ¿desde dónde se defiende? Si bien para muchos el deber democrático reside únicamente en acudir a las urnas cada cierto tiempo, el deber sostenido implica integrar los ideales democráticos en el día a día. Frente al tecnofeudalismo la defensa de los ideales democráticos desde la ciencia y la tecnología resultan el siguiente paso lógico. 
 
-La cuestión de la manera en que se construye, como se distribuye y con que fin se hace la ciencia y la tecnología es de suma importancia en este aspecto. Democratizar la ciencia y la tecnología invita a la deliberación colectiva de estas cuestiones. El aldeano digital que conoce lo suficiente de ciencia y tecnología defiende los ideales democráticos al exigir, cuestionar y proponer los usos y enfoques de esta.
+La cuestión de la manera en que se construye, como se distribuye y con que fin se hace la ciencia y la tecnología es de suma importancia en este aspecto. Democratizar la ciencia y la tecnología invita a la deliberación colectiva de estas cuestiones. El aldeano digital que conoce lo suficiente de ciencia y tecnología defiende los ideales democráticos al exigir, cuestionar y proponer los usos y enfoques de esta. En el proceso, el aldeano digital también se libera a si mismo del cautiverio del tecnovasallismo. 
 
 Una democracia multicultural que reconoce la validez de los distintos tipos de saberes no requiere que todos los ciudadanos sean científicos o ingenieros del algoritmo, pero si que exista el diálogo entre diferentes perspectivas y una genuina participación ciudadana. La ciencia abierta, el software libre, la educación crítica y la organización comunitaria son las herramientas para desmontar la torre, abrir la catedral y plantar, en su lugar, una plaza pública.
 
 ## Contraportada
+
+// Posiblemente un código QR a un repositorio / GitHub pages, doi
+//referencias (también se pueden agregar dentro del "cuerpo" del zine, sobre todo a manera de balancear la distribución de paginas en el caso del Zine impreso)
+//ilustraciones 
