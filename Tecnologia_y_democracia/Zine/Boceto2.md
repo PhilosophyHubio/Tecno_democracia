@@ -19,10 +19,10 @@ Contraportada: Fuentes, ligas, etc.
 Nueva estructura de contenidos:
 
 - [x] Aldea digital 
-- [ ] Tecno vasallismo
+- [x] Tecno vasallismo
 	- [x] las advertencias
 	- [x] la conquista
-	- [ ] lo que pudo haber sido 
+	- [x] lo que pudo haber sido 
 - [x] Los señores (tecno) feudales
 	- [x] La experiencia manufacturada
 	- [x] Un empujoncito
@@ -36,11 +36,11 @@ Nueva estructura de contenidos:
 
 Revisar fuentes:
 
-- [ ] Aldea digital 
-- [ ] Tecno vasallismo
-	- [ ] las advertencias
-	- [ ] la conquista
-	- [ ] lo que pudo haber sido 
+- [x] Aldea digital 
+- [x] Tecno vasallismo
+	- [x] las advertencias
+	- [x] la conquista
+	- [x] lo que pudo haber sido 
 - [ ] Los señores (tecno) feudales
 	- [ ] La experiencia manufacturada
 	- [ ] Un empujoncito
@@ -87,11 +87,10 @@ A consecuencia, la responsabilidad de llevar la democracia al ciberespacio que h
 
 %% %%
 
-En cierta manera, la elección de los jardines amurallados sobre la libertad en el ciberespacio fue una decisión colectiva. Mas allá de la cumbre mundial de la información y las acciones de la ONU,  el rechazo a las alternativas de arquitectura abierta y gobernanza descentralizada
+En cierta manera, la elección de los jardines amurallados sobre la libertad en el ciberespacio fue una decisión colectiva. Mas allá de la cumbre mundial de la información y las acciones de la ONU, 
+la preferencia por la aparente conveniencia, usabilidad, eficiencia y estabilidad que ofrecen los jardines amurallados sobre las alternativas de arquitectura abierta y gobernanza descentralizada ha sido general entre los usuarios. La preferencia hacia las grandes plataformas permite e las grandes corporaciones desplazar o absorber las alternativas abiertas. 
 
-- que alternativas se plantearon
-- porque valió kso :(
-
+Existen varios ejemplos de proyectos y propuestas para un internet abierto que preceden el actual centralismo del ciberespacio, un ejemplo histórico en Latinoamérica fue el proyecto Synco en Chile de los años 70 bajo el mandato de Salvador Allende. Synco fue planteado como un sistema que permitiría recabar datos de producción  en tiempo real en fabricas, correr simulaciones de la economía chilena y comunicarse con y entre las fabricas entre otras cosas. Synco destaca de otras redes similares al ser de origen civil (a diferencia del internet primitivo en Estados Unidos, manejado por las fuerzas militares) y porque buscaba funcionar de forma transversal, sin imponer un control vertical de la información.  (Simon, 2015) (Medina Eden, Revolucionarios cibernéticos: tecnología y política en el Chile de Salvador Allende. Santiago de Chile: LOM Ediciones, 2013)
 
 ## Los señores (Tecno) Feudales
 
