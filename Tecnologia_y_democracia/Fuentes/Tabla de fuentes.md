@@ -22,7 +22,6 @@
 
 ### Tecnovasallismo
 
-
 #### En general
 
 | Titulo                                                                                                                                             | L   | U   |
@@ -97,3 +96,9 @@ Beyond Horse Races and Boxing Matches by Doc Searls on May 6, 2004
 
 
 ### Ciencia - feudalismo
+
+**Dewey, John (1916).** _Democracy and Education_
+**Dewey, John (1927).** _The Public and its Problems_
+**Harding, Sandra (1991).** _Whose Science? Whose Knowledge? Thinking from Women's_
+**Harding, Sandra (2006).** _Science and Social Inequality: Feminist and Postcolonial Issues_
+
