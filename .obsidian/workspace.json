@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia_y_democracia/Zine/Boceto2.md",
+                "file": "Tecnologia_y_democracia/Zine/Boceto.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Boceto2"
+              "title": "Boceto"
             }
           }
         ],
@@ -257,8 +257,9 @@
   },
   "active": "15f4bd575f40caa2",
   "lastOpenFiles": [
-    "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/Ciencia y democracia en sociedad multicultural.md",
+    "Tecnologia_y_democracia/Mapa temático.canvas",
     "Tecnologia_y_democracia/Zine/Boceto2.md",
+    "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/Ciencia y democracia en sociedad multicultural.md",
     "Tecnologia_y_democracia/Fuentes/Tabla de fuentes.md",
     "Tecnologia_y_democracia/Notas/Feudalismo Tecnologico/Feudo-Ciencia.md",
     "Tecnologia_y_democracia/Zine/Preview.pdf",
@@ -268,7 +269,6 @@
     "README.md",
     "Tecnologia_y_democracia/Grafos/Graph View.png",
     "Tecnologia_y_democracia/Grafos/Relaciones.png",
-    "Tecnologia_y_democracia/Mapa temático.canvas",
     "Tecnologia_y_democracia/Grafos",
     "Tecnologia_y_democracia/Zine/README.md",
     "Tecnologia_y_democracia/Notas/Feudalismo Tecnologico/Feudalismo tecnológico.md",
@@ -292,7 +292,6 @@
     "Tecnologia_y_democracia/Imagenes",
     "Notas/Mapa de preguntas.canvas",
     "create a link.md",
-    "Welcome.md",
     "Tecnologia_y_democracia/Notas/Ciencia, Democracia, Multiculturalidad/otros conceptos",
     "Untitled.base",
     "Tecnologia_y_democracia/Notas/Relaciones",
