@@ -41,9 +41,12 @@ Nueva estructura de contenidos:
 
 La aldea digital somos todos nosotros los que ***interactuamos*** en y con las plataformas digitales: consumidores y creadores de contenido, compradores y vendedores de tiendas en línea, usuarios de redes sociales, de motores de búsqueda, o de casinos virtuales. Si bien las interacciones son ***digitales***, sus consecuencias pueden ser muy ***reales***. 
 
+La aldea digital es entonces un territorio acotado a lo digital, con interacciones prácticamente instantáneas de causa y efecto, agentes interdependientes y de carácter global. *
+
 ¿Cómo se ve una democracia multicultural entre tantos aldeanos digitales? ¿Qué retos, beneficios y contradicciones surgen de estas interacciones? 
 
-//..?
+(como nota a pie de página)
+*Marshall McLuhan define en "La Galaxia Gutenberg" un sistema donde la interdependencia es la consecuencia de una interacción instantánea de causa y efecto como un sistema con el carácter propio de una aldea, además propone que debido a  "los descubrimientos electromagnéticos y la interdependencia electrónica" el mundo adquiere la imagen de una aldea global. 
 
 ## Tecnovasallos
 
