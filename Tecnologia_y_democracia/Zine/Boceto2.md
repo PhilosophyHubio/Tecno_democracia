@@ -73,7 +73,7 @@ En consecuencia, la responsabilidad de llevar la democracia al ciberespacio que 
 En cierta manera, la elección de los jardines amurallados sobre la libertad en el ciberespacio fue una decisión colectiva. Más allá de la Cumbre Mundial de la Información y las acciones de la ONU, 
 la preferencia por la aparente conveniencia, usabilidad, eficiencia y estabilidad que ofrecen los jardines amurallados sobre las alternativas de arquitectura abierta y gobernanza descentralizada ha sido general entre los usuarios. La preferencia hacia las grandes plataformas permite a las grandes corporaciones desplazar o absorber las alternativas abiertas. 
 
-Existen varios ejemplos de proyectos y propuestas para un internet abierto que preceden el actual centralismo del ciberespacio. Un ejemplo histórico en Latinoamérica fue el proyecto Synco en Chile, en los años 70, bajo el mandato de Salvador Allende. Synco fue planteado como un sistema que permitiría recabar datos de producción en tiempo real en fábricas, correr simulaciones de la economía chilena y comunicarse con y entre las fábricas, entre otras cosas. Synco destaca de otras redes similares al ser de origen civil (a diferencia del internet primitivo en Estados Unidos, manejado por las fuerzas militares) y porque buscaba funcionar de forma transversal, sin imponer un control vertical de la información.  (Simon, 2015)
+Existen varios ejemplos de proyectos y propuestas para un internet abierto que preceden el actual centralismo del ciberespacio. Un ejemplo histórico en Latinoamérica fue el proyecto Synco en Chile, en los años 70, bajo el mandato de Salvador Allende. Synco fue planteado como un sistema que permitiría recabar datos de producción en tiempo real en fábricas, correr simulaciones de la economía chilena y comunicarse con y entre las fábricas, entre otras cosas. Synco destaca de otras redes similares al ser de origen civil (a diferencia del internet primitivo en Estados Unidos, manejado por las fuerzas militares) y porque buscaba funcionar de forma transversal, sin imponer un control vertical de la información.  (Simon, 2015) 
 ## Los señores (Tecno) Feudales
 
 En la Edad Media, los señores feudales eran dueños de las tierras y las riquezas, los aldeanos trabajaban la tierra del señor feudal a cambio de protección y una porción del fruto de su trabajo. La situación de los aldeanos digitales no es muy diferente. 
@@ -122,6 +122,8 @@ La Torre de Marfil como metáfora del lugar en que habitan científicos e invest
 
 La ciencia dentro de una torre de marfil es para la sociedad indescifrable, abstracta y esotérica, mientras que aquella que sale de la torre es cercana a las necesidades, ideas y deseos de la sociedad a la que mucho le debe. En este sentido, la torre de marfil es similar a la catedral: una práctica cerrada y a menudo confidencial, llevada a cabo por grupos pequeños de personas y que no necesariamente contempla el beneficio social como un fin. Los productos de una ciencia "de torre" resultan ser tan opacos como la caja negra de _"el algoritmo"_ y cuando esta se desarrolla bajo la lógica del tecnofeudalismo, tiende a ponerse al servicio de quien financia o controla los medios de producción tecnológica.
 
+Así, la infraestructura tecnológica del tecnofeudalismo privatiza la ciencia y la encierra en la torre de marfil. La tecnología opaca (como la de la catedral o de caja negra) es la manifestación de esa ciencia opaca y mercantilizada.
+
 El científico que sale de la torre de marfil no puede desentenderse del uso que se le da a su conocimiento. Debe ser consciente de que el sujeto de su investigación, la manera en que lo comunica y con quién colabora tienen un efecto directo. Una ciencia responsable busca investigar y diseñar mecanismos y tecnologías que favorezcan la transparencia, autonomía y participación del público. 
 
 #### **Ciencia-feudalismo**
@@ -130,7 +132,9 @@ El científico que sale de la torre de marfil no puede desentenderse del uso que
 
 Las relaciones feudales se extienden no solo al campo del ciberespacio, las plataformas y los usuarios. La labor científica tiene la responsabilidad social de no desentenderse del uso que se le da a los productos que desarrolla, por ejemplo, los algoritmos y protocolos al servicio de los señores feudales, sin embargo, la ciencia misma debe también ocuparse de no replicar las estructuras feudales o de poder y dominación dentro de sus propias prácticas. 
 
-Los sistemas de dominación propios del tecnofeudalismo operan mediante una serie de simulaciones y promesas: la promesa del progreso, la eficiencia y la razón, y la simulación de neutralidad, entre otros. La filósofa Sandra Harding hace la observación de que estas mismas han sido utilizadas para camuflar el ejercicio de poder en la ciencia. 
+Los sistemas de dominación propios del tecnofeudalismo operan mediante una serie de simulaciones y promesas: la promesa del progreso, la eficiencia y la razón, y la simulación de neutralidad (*"neutralidad técnica"*), entre otros. La filósofa Sandra Harding hace la observación de que estas mismas han sido utilizadas para camuflar el ejercicio de poder en la ciencia. 
+
+La 'caja negra' de la catedral y la 'neutralidad técnica' de Harding son, en el fondo, la misma estrategia de opacidad política. Ambas ocultan los intereses de poder detrás de una apariencia de objetividad incuestionable. En ambos casos, el poder se vuelve invisible y, por tanto, difícil de disputar.
 
 Para Harding, la práctica científica hegemónica se ha escudado en una neutralidad técnica para esconder un sesgo hacia los intereses de grupos dominantes (como intereses militares, androcéntricos y eurocéntricos). Argumenta, a su vez, que las normas que buscan desvincular el conocimiento de los valores sociales suelen terminar protegiendo las jerarquías existentes. (S. Harding, 2006; S. G. Harding, 1991)
 
@@ -145,20 +149,20 @@ La ciencia no tiene por qué seguir la estructura de la catedral ni debe existir
 
 Para construir una ciencia y tecnología democráticas, que sirvan a los intereses de la aldea digital y no a los de los señores feudales, el científico que sale de la torre de marfil debe reconocerse, ante todo, como un facilitador que co-crea *el conocimiento* mediante el diálogo de *diferentes conocimientos* sin tachar a lo *no científico* de simple *brujería*, sino apreciando los diversos tipos de saberes y perspectivas. 
 
-La ciencia que necesita la aldea digital no debe fabricar *empujoncitos*, sino que debe enseñar a ver los hilos del titiritero.
+La ciencia que necesita la aldea digital no debe despreciar los diferentes tipos de conocimiento, por mas que estas prácticas nos puedan parecer actos de brujería, ni debe fabricar *empujoncitos*, sino que debe ~~enseñar a ver los hilos del titiritero~~ hacer visible lo que la neutralidad técnica esconde: quién y qué construye, quién decide y a quién beneficia.
 
 ## La democracia
 %% relación ciencia- democracia, tecnología - ciencia y tecnología - democracia, retos opciones y conclusion / llamado a acción %%
 
 ¿A qué se enfrenta la democracia? Cuando las noticias, opiniones y contenidos pasan por un intermediario que define qué es lo que se muestra y lo que no, cuando el algoritmo nos muestra exclusivamente aquello con lo que sabe que estamos de acuerdo o aquello por lo que pagó un tercero para que lo viéramos, ¿qué tan libre es nuestro acceso a la información? ¿Qué tan ***nuestras*** son nuestras decisiones? ¿Qué sucede cuando, empujoncito a empujoncito, se manipula la opinión de millones de personas sin que tengan la menor idea? ¿Cuándo se vigila constantemente a los usuarios?
 
-El feudalismo tecnológico plantea un escenario perfecto para la manipulación sistémica mediante la desinformación, cámaras de resonancia, polarización, etc. ¿Qué tan libre es aquel que ha sido manipulado? ¿Qué tan democrática puede ser una sociedad cuya experiencia es manufacturada por señores tecnofeudales? 
+Al ser reducido a la condición de tecnovasallo, el aldeano digital pierde progresivamente su capacidad de discernimiento. Esta pérdida es la raíz de los peligros que enfrenta la democracia en el tecnofeudalismo. El feudalismo tecnológico plantea un escenario perfecto para la manipulación sistémica mediante la desinformación, cámaras de resonancia, polarización, etc. ¿Qué tan libre es aquel que ha sido manipulado? ¿Qué tan democrática puede ser una sociedad cuya experiencia es manufacturada por señores tecnofeudales? 
 
 #### **Las trincheras**
 
 Si se amenaza a la democracia, ¿desde dónde se defiende? Si bien para muchos el deber democrático reside únicamente en acudir a las urnas cada cierto tiempo, el deber sostenido implica integrar los ideales democráticos en el día a día. Frente al tecnofeudalismo, la defensa de los ideales democráticos desde la ciencia y la tecnología resulta el siguiente paso lógico. 
 
-La cuestión de la manera en que se construye, cómo se distribuye y con qué fin se hace la ciencia y la tecnología es de suma importancia en este aspecto. Democratizar la ciencia y la tecnología invita a la deliberación colectiva de estas cuestiones. El aldeano digital que conoce lo suficiente de ciencia y tecnología defiende los ideales democráticos al exigir, cuestionar y proponer los usos y enfoques de esta. En el proceso, el aldeano digital también se libera a sí mismo del cautiverio del tecnovasallismo. 
+La cuestión de la manera en que se construye, cómo se distribuye y con qué fin se hace la ciencia y la tecnología es de suma importancia en este aspecto. Democratizar la ciencia y la tecnología invita a la deliberación colectiva de estas cuestiones. El aldeano digital que conoce lo suficiente de ciencia y tecnología defiende los ideales democráticos al exigir, cuestionar y proponer los usos y enfoques de esta. En el proceso, el aldeano digital deja de ser un tecnovasallo y se convierte en un ciudadano emancipado cuando adquiere la capacidad crítica para exigir, cuestionar y proponer sobre la ciencia y la tecnología que impactan su vida.
 
 Una democracia multicultural que reconoce la validez de los distintos tipos de saberes no requiere que todos los ciudadanos sean científicos o ingenieros del algoritmo, pero sí que exista el diálogo entre diferentes perspectivas y una genuina participación ciudadana. La ciencia abierta, el software libre, la educación crítica y la organización comunitaria son las herramientas para desmontar la torre, abrir la catedral y plantar, en su lugar, una plaza pública.
 
