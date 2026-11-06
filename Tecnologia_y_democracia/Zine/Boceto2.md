@@ -25,146 +25,194 @@ Nueva estructura de contenidos:
 	- [ ] La experiencia manufacturada
 	- [ ] Un empujoncito
 - [ ] La catedral y el bazaar
-	- [ ] Mas allá del software, libertad
+	- [ ] Mas allá del software (libertad)
 - [ ] La Torre de marfil
-	- [ ] (Feudo) ciencia
-	- [ ] Salir de la torre y abrir la catedral 
+	- [ ] (Feudo)ciencia
+	- [ ] Salir de la torre y abrir la catedral
 - [ ] La democracia **
 	- [ ] Las trincheras**
 
 
 # Contenido
+
 ## La aldea digital
 %% Foreword / Panorama %%
 
 ¿Qué posible relación pueden tener la tecnología, sus grandes empresas, la ciencia, la brujería, la democracia y el feudalismo? Todos son personajes y escenarios de este relato. 
 
-La aldea digital somos todos nosotros los que ***interactuamos*** en y con las plataformas digitales: consumidores y creadores de contenido, compradores y vendedores de tiendas en línea, usuarios de redes sociales, de motores de búsqueda, o de casinos virtuales. Si bien las interacciones son ***digitales***, sus consecuencias pueden ser muy ***reales***. 
+La aldea digital somos todos nosotros los que ***interactuamos*** en y con las tecnologías digitales: consumidores y creadores de contenido, compradores y vendedores de tiendas en línea, usuarios de redes sociales, de motores de búsqueda, o de casinos virtuales.
+Si bien las interacciones son ***digitales***, sus consecuencias pueden ser muy ***reales***. 
 
-La aldea digital es entonces un territorio acotado a lo digital, con interacciones prácticamente instantáneas de causa y efecto, agentes interdependientes y de carácter global. *
+La aldea digital es entonces un territorio acotado a lo digital, con interacciones globales prácticamente instantáneas entre agentes interdependientes. *
 
 ¿Cómo se ve una democracia multicultural entre tantos aldeanos digitales? ¿Qué retos, beneficios y contradicciones surgen de estas interacciones? 
 
 (como nota a pie de página)
-*Marshall McLuhan define en "La Galaxia Gutenberg" un sistema donde la interdependencia es la consecuencia de una interacción instantánea de causa y efecto como un sistema con el carácter propio de una aldea, además propone que debido a  "los descubrimientos electromagnéticos y la interdependencia electrónica" el mundo adquiere la imagen de una aldea global. 
+*Marshall McLuhan define en "La Galaxia Gutenberg" un sistema donde la interdependencia es consecuencia de una interacción instantánea de causa y efecto, que crea un sistema con el carácter propio de una aldea.
+Además propone que debido a "los descubrimientos electromagnéticos y la interdependencia electrónica" el mundo adquiere la imagen de una aldea global. 
 
 ## Tecnovasallos
 
-La manera en la que interactuamos en el *ciberespacio,* la influencia que tiene este sobre nuestras vidas y la posición que ocupamos en él han cambiado. Si el espacio electrónico es uno de dominación, entonces quienes lo habitan son los que dominan (señores tecnofeudales) y los dominados: los ***tecnovasallos.***
+La manera en la que interactuamos en el *ciberespacio*, la influencia que tiene este sobre nuestras vidas y la posición que ocupamos en él han cambiado.
+Si el espacio electrónico es uno de dominación, entonces quienes lo habitan son los que dominan (señores tecnofeudales) y los dominados: los ***tecnovasallos.***
+
 #### **Las advertencias**
 
-Hay múltiples escritos de hackers, aficionados a la tecnología y otros usuarios que asemejan advertencias de lo que después se asomaría en el horizonte del ciberespacio. Un ejemplo tan temprano como 2001 es el artículo de Doc Searls "Whose Hand Is That in Your Pocket?" donde se externa la sospecha de Joel Spolsky sobre el reciente Microsoft Passport:
+Hay múltiples escritos de hackers, aficionados a la tecnología y otros usuarios que asemejan advertencias de lo que después se asomaría en el horizonte del ciberespacio.
+Un ejemplo tan temprano como 2001 es el artículo de Doc Searls "Whose Hand Is That in Your Pocket?" donde se externa la sospecha de Joel Spolsky sobre el reciente Microsoft Passport:
 
-	"Me parece un intento bastante descarado de crear la base de datos de consumidores más grande y completa del mundo para, a continuación, obtener beneficios fabulosos explotándola." (Doc Searls, 2001) 
+> "Me parece un intento bastante descarado de crear la base de datos de consumidores más grande y completa del mundo para, a continuación, obtener beneficios fabulosos explotándola." (Doc Searls, 2001)
 
 Actualmente la recopilación de datos de usuarios con fines lucrativos está lejos de ser una anomalía.
 
-Otros artículos de Searls (particularmente en The Linux Journal) advierten de riesgos y tendencias que más tarde se materializarían en el ciberespacio: la configuración de internet en "jardines amurallados" y "silos corporativos" (plataformas cerradas donde las empresas controlan las interacciones de los usuarios, imponen las condiciones de uso y gestionan a los usuarios como se haría con el ganado) tendría como consecuencia que los usuarios se encontraran cautivos en estas plataformas, principalmente por la dependencia forzada.  (Doc Searls, 2001, 2002, 2003, 2004, 2007, 2008)
+Otros artículos de Searls (particularmente en The Linux Journal) advierten de riesgos y tendencias que más tarde se materializarían en el ciberespacio: la configuración de Internet en "jardines amurallados" y "silos corporativos" (plataformas cerradas donde las empresas controlan las interacciones de los usuarios, imponen las condiciones de uso y gestionan a los usuarios como se haría con el ganado) tendría como consecuencia que los usuarios se encontraran cautivos en estas plataformas, principalmente por la dependencia forzada.  (Doc Searls, 2001, 2002, 2003, 2004, 2007, 2008)
 
-Un tecnovasallo carece de las herramientas para no depender del ecosistema digital en el que está cautivo, no es dueño de sus dispositivos ni de sus datos, y sus interacciones quedan reducidas a lo permitido en los jardines amurallados. 
+Un tecnovasallo carece de las herramientas para independizarse del ecosistema digital en el que está cautivo, no es dueño de sus dispositivos ni de sus datos, y sus interacciones quedan reducidas a lo permitido en los jardines amurallados. 
+
 #### **La conquista**
 
-Javier Echeverría, quien plantea el término "tecnovasallo", también detalla la conquista de internet como el momento crucial en el que se le delega la responsabilidad de construir las infraestructuras del internet a las grandes corporaciones. Este momento corresponde con la Cumbre Mundial de la Sociedad de la Información, organizada por la ONU en conjunto con la Unión Internacional de Telecomunicaciones y la intervención de integrantes de la sociedad civil. A juicio de Echeverría, la ONU dimite de aplicar la noción de los derechos humanos al ciberespacio. (Lucía Barrios, 2026)
+Javier Echeverría, quien acuña el término "tecnovasallo", también detalla la conquista de Internet como el momento crucial en el que se delega a las grandes corporaciones la responsabilidad de construir las infraestructuras del Internet.
+Este momento corresponde con la Cumbre Mundial de la Sociedad de la Información, organizada por la ONU en conjunto con la Unión Internacional de Telecomunicaciones y la intervención de integrantes de la sociedad civil.
+A juicio de Echeverría, la ONU dimite de aplicar la noción de los derechos humanos al ciberespacio (Lucía Barrios, 2026). 
 
-En consecuencia, la responsabilidad de llevar la democracia al ciberespacio que hasta ese momento recaía sobre los estados pasa a manos de las grandes empresas tecnológicas. Estas rápidamente moldean el paisaje cibernético y adquieren cantidades monumentales de poder e influencia. 
+En consecuencia, la responsabilidad de llevar la democracia al ciberespacio que hasta ese momento recaía sobre los estados pasa a manos de las grandes empresas tecnológicas.
+Estas rápidamente moldean el paisaje cibernético y adquieren cantidades monumentales de poder e influencia. 
 
 #### **Lo que pudo haber sido**
 
-En cierta manera, la elección de los jardines amurallados sobre la libertad en el ciberespacio fue una decisión colectiva. Más allá de la Cumbre Mundial de la Información y las acciones de la ONU, 
-la preferencia por la aparente conveniencia, usabilidad, eficiencia y estabilidad que ofrecen los jardines amurallados sobre las alternativas de arquitectura abierta y gobernanza descentralizada ha sido general entre los usuarios. La preferencia hacia las grandes plataformas permite a las grandes corporaciones desplazar o absorber las alternativas abiertas. 
+En cierta manera, la elección de los jardines amurallados sobre la libertad en el ciberespacio fue una decisión colectiva.
+Más allá de la Cumbre Mundial de la Información y las acciones de la ONU, la preferencia por la aparente conveniencia, usabilidad, eficiencia y estabilidad que ofrecen los jardines amurallados sobre las alternativas de arquitectura abierta y gobernanza descentralizada ha sido general entre los usuarios.
+La preferencia hacia las grandes plataformas permite a las grandes corporaciones desplazar o absorber las alternativas abiertas. 
 
-Existen varios ejemplos de proyectos y propuestas para un internet abierto que preceden el actual centralismo del ciberespacio. Un ejemplo histórico en Latinoamérica fue el proyecto Synco en Chile, en los años 70, bajo el mandato de Salvador Allende. Synco fue planteado como un sistema que permitiría recabar datos de producción en tiempo real en fábricas, correr simulaciones de la economía chilena y comunicarse con y entre las fábricas, entre otras cosas. Synco destaca de otras redes similares al ser de origen civil (a diferencia del internet primitivo en Estados Unidos, manejado por las fuerzas militares) y porque buscaba funcionar de forma transversal, sin imponer un control vertical de la información.  (Simon, 2015) 
-## Los señores (Tecno) Feudales
+Existen varios ejemplos de proyectos y propuestas para un Internet abierto que preceden el actual centralismo del ciberespacio.
+Un ejemplo histórico en Latinoamérica fue el proyecto Synco en Chile, en los años 70, bajo el mandato de Salvador Allende.
+Synco fue planteado como un sistema que permitiría recabar datos de producción en tiempo real en fábricas, correr simulaciones de la economía chilena y comunicarse con y entre las fábricas, entre otras cosas.
+Synco se distingue de otras redes similares al ser de origen civil (a diferencia del Internet primitivo en Estados Unidos, manejado por las fuerzas militares) y porque buscaba funcionar de forma transversal, sin imponer un control vertical de la información (Simon, 2015). 
 
-En la Edad Media, los señores feudales eran dueños de las tierras y las riquezas, los aldeanos trabajaban la tierra del señor feudal a cambio de protección y una porción del fruto de su trabajo. La situación de los aldeanos digitales no es muy diferente. 
+## Los señores (tecno)feudales
 
-Hoy las grandes empresas son dueñas de los espacios digitales en los cuales los usuarios crean valor (publicaciones, productos en venta, datos, etc.), se benefician del valor producido e imponen sus reglas: cambian **algoritmos**, cobran de repente, o desaparecen tu cuenta.
+En la Edad Media, los señores feudales eran dueños de las tierras y las riquezas, los aldeanos trabajaban la tierra del señor feudal a cambio de protección y una porción del fruto de su trabajo.
+La situación actual de los aldeanos digitales no es muy diferente. 
 
-El señor tecnofeudal tiene control total de la información, comunicación y servicios que intercambian los usuarios de sus tecnologías. Este control permite manufacturar la experiencia del usuario según lo que mejor convenga al señor feudal. **El tecnofeudalismo es el sistema que le permite hacerlo.** (Yanis Varoufakis, 2023)
+Hoy los usuarios crean valor (videos, publicaciones, reseñas, productos en venta, etc.) en los espacios digitales, mientras las grandes empresas que son dueñas de esos espacios se benefician de esa labor e imponen sus reglas: cambian sus **algoritmos**, o sus políticas, imponen cuotas, o simplemente desaparecen tu cuenta.
+
+El señor tecnofeudal tiene control absoluto de la información, comunicación y servicios que intercambian los usuarios de sus tecnologías.
+Este control permite manufacturar la experiencia del usuario según lo que mejor convenga al señor feudal.
+**El sistema que le permite hacerlo es el «tecnofeudalismo».** (Varoufakis, 2023)
 
 #### **La experiencia manufacturada**
 
-Promocionar un producto por encima de otro, mostrar tales o cuales opiniones, noticias y contenidos son decisiones tomadas algorítmicamente por quien tiene el control de las plataformas. 
+Promocionar un producto por encima de otro, mostrar, o no mostrar, tales o cuales opiniones, noticias y contenidos son decisiones tomadas (algorítmicamente) por quien tiene el control de las plataformas. 
 
-Una experiencia personalizada para el usuario (y cuidadosamente manufacturada para beneficio del señor feudal) permite manipular al usuario de manera discreta mediante lo que se pone en pantalla. Las decisiones que tomamos según lo que se nos presenta se sienten como nuestras, pero son en realidad **influenciadas**. (Helbing et al., 2019)
+Una experiencia personalizada para el usuario (y cuidadosamente manufacturada para beneficio del señor tecnofeudal y de sus inversionistas) permite manipular al usuario de manera discreta mediante lo que se pone en pantalla.
+Las decisiones que tomamos según lo que se nos presenta se sienten como nuestras, pero son en realidad **influenciadas** (Helbing et al., 2019). 
 
 #### **Un empujoncito**
 
-Cuando unos pocos tienen la capacidad de influir en las decisiones y comportamientos de millones de personas a empujoncitos digitales apenas perceptibles que evaden el pensamiento crítico del usuario, se corren riesgos mucho más significativos que hacer un par de compras impulsivas: Amenazan nuestro desarrollo personal, social y democrático. (Helbing et al., 2019)
+Cuando unos pocos tienen la capacidad de influir en las decisiones y comportamientos de millones de personas a empujoncitos digitales apenas perceptibles, que evaden el pensamiento crítico del usuario, se corren riesgos mucho más significativos que hacer un par de compras impulsivas: **amenazan nuestro desarrollo personal, social y democrático** (Helbing et al., 2019). 
 
-Quien es manipulado pierde la capacidad de controlar su vida y sus decisiones. El panorama en el que millones de personas son influenciadas por un sistema centralizado de manipulación superinteligente plantea un escenario hostil a la democracia.
+Quien es manipulado pierde la capacidad de controlar su vida y sus decisiones.
+El panorama en el que millones de personas son influenciadas por un sistema centralizado de manipulación altamente refinado plantea un escenario hostil a la democracia.
 
-Sin embargo, **las cosas no tienen por qué ser de esta forma.** 
+Sin embargo, **las cosas NO TIENEN por qué ser de esta forma.** 
 
 ## La catedral y el bazar
 
-Para que una tecnología sea de utilidad a un señor feudal, esta debe estar centralizada, es decir, debe obedecer una jerarquía que permita que la toma de decisiones recaiga en una autoridad central. De esta manera, el diseño mismo de las funciones de dicha tecnología gira en torno al beneficio de quien es dueño de ella. 
+Para que una tecnología sea de utilidad a un señor tecnofeudal, esta debe estar centralizada, es decir, debe obedecer una jerarquía que permita que la toma de decisiones recaiga en una autoridad central.
+De esta manera, el diseño mismo de las funciones de dicha tecnología gira en torno al beneficio de quien es "dueño" de ella. 
 
-Al momento de desarrollar software, podemos distinguir dos modelos de desarrollo según lo que plantea Eric S. Raymond en "The Cathedral and the bazaar". En este libro Eric distingue, por un lado, el desarrollo tipo "catedral", en el que un grupo pequeño de desarrolladores trabaja de forma centralizada para publicar actualizaciones cada tanto tiempo. Y, por el otro, el desarrollo tipo "bazar" propio del software libre, en el cual se invita al mayor número de personas posible a colaborar, revisar y experimentar con el código. (Raymond, 1999)
+Al momento de desarrollar software, podemos distinguir dos modelos de desarrollo según lo que plantea Eric S. Raymond en "The Cathedral and the Bazaar".
+En este libro Eric distingue, por un lado, el desarrollo tipo "catedral", en el que un grupo pequeño de desarrolladores trabaja de forma centralizada para publicar actualizaciones cada tanto tiempo, y, por el otro, el desarrollo tipo "bazar" propio del software libre, en el cual se invita al mayor número de personas posible a colaborar, revisar y experimentar con el código (Raymond, 1999). 
 
  #### **Más allá del software, libertad**
  
-La clave detrás del éxito del desarrollo tipo bazar consiste fundamentalmente en la colaboración entre pares y la pluralidad de ideas. Esto se ejemplifica en la "Ley de Linus", que Eric describe como "dados suficientes ojos, todos los errores son triviales" en referencia a que, dada una cantidad suficiente de personas trabajando en el código de un programa, la solución a cualquier error que tenga va a parecerle evidente a alguien. (Raymond, 1999)
+La clave detrás del éxito del desarrollo tipo bazar consiste fundamentalmente en la colaboración entre pares y la pluralidad de ideas.
+Esto se ejemplifica en la "Ley de Linus" (Torvalds), que Eric describe como "dados suficientes ojos, todos los errores son triviales" en referencia a que, dada una cantidad suficiente de personas trabajando en el código de un programa, la solución a cualquier error que tenga va a parecerle evidente a alguien (Raymond, 1999). 
 
-El desarrollo tipo bazar está asociado inseparablemente al software libre, que a su vez es un concepto más allá de programas de computadoras. El origen del software libre se da como respuesta a las restricciones que impone el software propietario, tanto por razones prácticas como políticas y éticas. 
+El desarrollo tipo bazar está asociado inseparablemente al software libre, que a su vez es un concepto más allá de programas de computadoras.
+El origen del software libre se da como respuesta a las restricciones que impone el software propietario, tanto por razones prácticas como políticas y éticas. 
 
-El software propietario funciona muchas veces como una caja negra, en donde el usuario no tiene manera de saber qué es exactamente lo que hace el programa, no puede abrir la caja ni aunque sea para repararla. Un ejemplo problemático sería un programa que, sin que el usuario lo sepa, recopila información de este y la almacena para venderla. (Adell & Bernabé, n.d.)
+El software propietario funciona muchas veces como una caja negra, en donde el usuario no tiene manera de saber qué es exactamente lo que hace el programa, no puede abrir la caja ni aunque sea para repararla.
+Un ejemplo particularmente problemático sería un programa que, sin que el usuario lo sepa, recopila información de este y la almacena para venderla (Adell & Bernabé, n.d.). 
 
 Por otro lado, el software libre es completamente transparente en su funcionamiento y se invita a los usuarios a volverse colaboradores, modificarlo según sus necesidades y compartir sus propuestas. 
 
-La gran lección del software libre es que existen formas alternas de construir tecnología: mediante la comunidad, acorde a los gustos y necesidades de los usuarios y de forma libre y respetuosa con estos. **Estas son las alternativas que permiten al tecnovasallo dejar de serlo.** 
+La gran lección del software libre es que existen formas alternas de construir tecnología: mediante la comunidad, acorde a los gustos y necesidades de los usuarios y de forma libre y respetuosa con estos.
+**Estas son las alternativas que permiten al tecnovasallo dejar de serlo.** 
 
 ## La torre de marfil
 
 %% Relaciones entre ciencia y sociedad, pluralismo y cientificismo, etc. y ciencia y tecnología. %%
 
-La Torre de Marfil como metáfora del lugar en que habitan científicos e investigadores, desconectados del resto de la sociedad y ocupándose ensimismados en labores abstractas e incomprensibles surge, en parte, en el contexto de una sociedad americana que se enfrenta a la Segunda Guerra Mundial y que celebra la salida de sus científicos de la torre de marfil para dedicar su trabajo a la elaboración de la tecnología (principalmente armas) que definiría eventualmente el curso de la guerra y de lo que seguiría después de esta. (Shapin, 2012)
+La **torre de marfil** como metáfora del lugar en que habitan científicos e investigadores, desconectados del resto de la sociedad y ocupándose ensimismados en labores abstractas e incomprensibles surge, en parte, en el contexto de una sociedad americana que se enfrenta a la Segunda Guerra Mundial y que celebra la salida de sus científicos de la torre de marfil para dedicar su trabajo a la elaboración de la tecnología (principalmente armas) que definiría eventualmente el curso de la guerra y de lo que seguiría después de esta (Shapin, 2012). 
 
-La ciencia dentro de una torre de marfil es para la sociedad indescifrable, abstracta y esotérica, mientras que aquella que sale de la torre es cercana a las necesidades, ideas y deseos de la sociedad a la que mucho le debe. En este sentido, la torre de marfil es similar a la catedral: una práctica cerrada y a menudo confidencial, llevada a cabo por grupos pequeños de personas y que no necesariamente contempla el beneficio social como un fin. Los productos de una ciencia "de torre" resultan ser tan opacos como la caja negra de _"el algoritmo"_ y cuando esta se desarrolla bajo la lógica del tecnofeudalismo, tiende a ponerse al servicio de quien financia o controla los medios de producción tecnológica.
+La ciencia dentro de una torre de marfil es para la sociedad indescifrable, abstracta y esotérica, mientras que aquella que sale de la torre es cercana a las necesidades, ideas y deseos de la sociedad a la que mucho le debe.
+En este sentido, la torre de marfil es similar a la catedral: una práctica cerrada y a menudo confidencial, llevada a cabo por pequeños grupos de personas (¿te suenan Elon Musk, Sam Altman, Mark Zuckerberg, Pavel Durov?) y que no necesariamente contempla el beneficio social como un fin.
+Los productos de una ciencia, o de una tecnología, "de torre" resultan ser tan opacos como la caja negra de _"el algoritmo"_, y cuando esta se desarrolla bajo la lógica del tecnofeudalismo, tiende a ponerse al servicio de quien financia o controla los medios de producción tecnológica.
 
-Así, la infraestructura tecnológica del tecnofeudalismo privatiza la ciencia y la encierra en la torre de marfil. La tecnología opaca (como la de la catedral o de caja negra) es la manifestación de esa ciencia opaca y mercantilizada.
+Así, la infraestructura tecnológica del tecnofeudalismo privatiza un conocimiento y lo encierra en la torre de marfil.
+La tecnología opaca (como la de la catedral o de la caja negra) es la manifestación de ese conocimiento opaco y mercantilizado.
 
-El científico que sale de la torre de marfil no puede desentenderse del uso que se le da a su conocimiento. Debe ser consciente de que el sujeto de su investigación, la manera en que lo comunica y con quién colabora tienen un efecto directo. Una ciencia responsable busca investigar y diseñar mecanismos y tecnologías que favorezcan la transparencia, autonomía y participación del público. 
+El científico que sale de la torre de marfil no puede desentenderse del uso que se le da a su conocimiento.
+Debe ser consciente de que la elección del objeto de su investigación, la manera en que lo comunica y con quién colabora tienen un efecto directo sobre la sociedad.
+Una ciencia responsable debería investigar y diseñar mecanismos y tecnologías que favorezcan la transparencia, autonomía y participación del público, un modelo mucho más parecido al de la catedral.
+¿Será eso posible?
 
-#### **Ciencia-feudalismo**
+#### **¿(Feudo)ciencia?**
 %% Ciencia-feudalismo , estructura feudal de la ciencia. %%
 %%Dewey diferencias de grado, Harding. %%
 
-Las relaciones feudales se extienden no solo al campo del ciberespacio, las plataformas y los usuarios. La labor científica tiene la responsabilidad social de no desentenderse del uso que se le da a los productos que desarrolla, por ejemplo, los algoritmos y protocolos al servicio de los señores feudales, sin embargo, la ciencia misma debe también ocuparse de no replicar las estructuras feudales o de poder y dominación dentro de sus propias prácticas. 
+Las relaciones feudales se extienden no solo al campo del ciberespacio, las plataformas y los usuarios, sino al de la tecnología y del conocimiento en general.
+La labor científica conlleva la responsabilidad social de no desentenderse del uso que se le da a los productos que desarrolla, por ejemplo, los algoritmos y protocolos con los que los señores feudales construllen sus murallas; sin embargo, la ciencia misma también debe ocuparse de no replicar las estructuras feudales o de poder y dominación dentro de sus propias prácticas. 
 
-Los sistemas de dominación propios del tecnofeudalismo operan mediante una serie de simulaciones y promesas: la promesa del progreso, la eficiencia y la razón, y la simulación de neutralidad (*"neutralidad técnica"*), entre otros. La filósofa Sandra Harding hace la observación de que estas mismas han sido utilizadas para camuflar el ejercicio de poder en la ciencia. 
+Los sistemas de dominación propios del tecnofeudalismo operan mediante una serie de simulaciones y promesas: la promesa del progreso, la eficiencia y la razón, y la simulación de neutralidad (*"neutralidad técnica"*), entre otros.
+La filósofa Sandra Harding hace la observación de que estas mismas han sido utilizadas para camuflar el ejercicio de poder en la ciencia beneficiando de manera desigual a unos grupos frente a todos los demás. 
 
-La 'caja negra' de la catedral y la 'neutralidad técnica' de Harding son, en el fondo, la misma estrategia de opacidad política. Ambas ocultan los intereses de poder detrás de una apariencia de objetividad incuestionable. En ambos casos, el poder se vuelve invisible y, por tanto, difícil de disputar.
+La 'caja negra' de la catedral y la 'neutralidad técnica' de Harding son, en el fondo, la misma estrategia de opacidad política.
+Ambas ocultan los intereses de poder detrás de una apariencia de objetividad incuestionable.
+En ambos casos, el poder, investido de neutralidad, se vuelve invisible y, por tanto, difícil de disputar.
 
-Para Harding, la práctica científica hegemónica se ha escudado en una neutralidad técnica para esconder un sesgo hacia los intereses de grupos dominantes (como intereses militares, androcéntricos y eurocéntricos). Argumenta, a su vez, que las normas que buscan desvincular el conocimiento de los valores sociales suelen terminar protegiendo las jerarquías existentes. (S. Harding, 2006; S. G. Harding, 1991)
+Para Harding, la práctica científica hegemónica se ha escudado en esa neutralidad para ocultar un sesgo hacia los intereses de grupos dominantes (con intereses económicos, militares, androcéntricos, eurocéntricos).
+Argumenta, a su vez, que las normas que buscan desvincular el conocimiento de los valores sociales suelen terminar protegiendo las jerarquías existentes (S. Harding, 2006; S. G. Harding, 1991). 
 
-Como alternativa, Harding propone (entre otras cosas) el compromiso explícito de la ciencia con la justicia social, la equidad y la rendición de cuentas. En este contexto su *teoría del punto de vista* invita a considerar el conocimiento como situado e influenciado por su contexto social y promueve estudiar "hacia arriba", es decir, desde la perspectiva de grupos marginados a manera de visibilizar los problemas e hipótesis que de otra manera serían invisibles ante la ciencia hegemónica. (S. Harding, 2006; S. G. Harding, 1991)
+Como alternativa, Harding propone (entre otras cosas) el compromiso explícito de la ciencia con la justicia social, la equidad y la rendición de cuentas.
+En este contexto su *teoría del punto de vista* invita a considerar el conocimiento como situado e influenciado por su contexto social y promueve estudiar "hacia arriba", es decir, desde la perspectiva de grupos marginados a manera de visibilizar los problemas e hipótesis que de otra manera serían invisibles ante la ciencia hegemónica (S. Harding, 2006; S. G. Harding, 1991). 
 
 #### **Salir de la torre y abrir la catedral**
 %% Sistemas centralizados vs %%
 %% Centralismo, desarrollo abierto, software libre, colaboración, ciencia ciudadana, etc. %%
 %% Análogo al tecnovasallismo vs bazaar%%
 
-La ciencia no tiene por qué seguir la estructura de la catedral ni debe existir aislada en una torre de marfil. Una ciencia que invite a la colaboración, revisión y a la transparencia y acceso de sus datos "tipo bazar" es una alternativa que democratiza la información e invita a la participación (además de beneficiarse de la "Ley de Linus").
+Las ciencias no tienen por qué seguir la estructura de la catedral ni debe existir aislada en una torre de marfil.
+Una práctica científica que invite a la colaboración, revisión, a la transparencia y acceso de sus datos "tipo bazar" es una alternativa que contribuye a democratizar el conocimiento e invita a la participación (además de beneficiarse de la "Ley de Linus").
 
-Para construir una ciencia y tecnología democráticas, que sirvan a los intereses de la aldea digital y no a los de los señores feudales, el científico que sale de la torre de marfil debe reconocerse, ante todo, como un facilitador que co-crea *el conocimiento* mediante el diálogo de *diferentes conocimientos* sin tachar a lo *no científico* de simple *brujería*, sino apreciando los diversos tipos de saberes y perspectivas. 
+Para construir una ciencia y tecnología democráticas, que sirvan a los intereses de la aldea digital y no a los de los señores feudales, el científico que sale de la torre de marfil debe reconocerse, ante todo, como un facilitador que co-crea *el conocimiento* mediante el diálogo de *diferentes saberes* sin tachar a lo *no científico* de simple *brujería*, sino apreciando los diversos tipos de saberes y perspectivas. 
 
-La ciencia que necesita la aldea digital no debe despreciar los diferentes tipos de conocimiento, por mas que estas prácticas nos puedan parecer actos de brujería, ni debe fabricar *empujoncitos*, sino que debe ~~enseñar a ver los hilos del titiritero~~ hacer visible lo que la neutralidad técnica esconde: quién y qué construye, quién decide y a quién beneficia.
+La ciencia que necesita la aldea digital no debe despreciar los diferentes tipos de conocimiento, por más que estas prácticas nos puedan parecer actos de brujería, ni debe fabricar *empujoncitos*, sino que debe ~~enseñar a ver los hilos del titiritero~~ hacer visible lo que la neutralidad técnica esconde: quién y qué construye, quién decide y a quién beneficia.
 
 ## La democracia
 %% relación ciencia- democracia, tecnología - ciencia y tecnología - democracia, retos opciones y conclusion / llamado a acción %%
 
-¿A qué se enfrenta la democracia? Cuando las noticias, opiniones y contenidos pasan por un intermediario que define qué es lo que se muestra y lo que no, cuando el algoritmo nos muestra exclusivamente aquello con lo que sabe que estamos de acuerdo o aquello por lo que pagó un tercero para que lo viéramos, ¿qué tan libre es nuestro acceso a la información? ¿Qué tan ***nuestras*** son nuestras decisiones? ¿Qué sucede cuando, empujoncito a empujoncito, se manipula la opinión de millones de personas sin que tengan la menor idea? ¿Cuándo se vigila constantemente a los usuarios?
+¿A qué se enfrenta la democracia? Cuando las noticias, opiniones y contenidos pasan por un intermediario que define qué es lo que se muestra y lo que no, cuando el algoritmo nos muestra exclusivamente aquello con lo que sabe que estamos de acuerdo o aquello por lo que pagó un tercero para que lo viéramos, ¿qué tan libre puede ser nuestro acceso a la información? ¿Qué tan ***nuestras*** son nuestras opiniones? ¿Y nuestras decisiones? ¿Qué sucede cuando, empujoncito a empujoncito, se manipula la opinión de millones de personas sin que tengan la menor idea? ¿Cuándo se vigila constantemente a los usuarios?
 
-Al ser reducido a la condición de tecnovasallo, el aldeano digital pierde progresivamente su capacidad de discernimiento. Esta pérdida es la raíz de los peligros que enfrenta la democracia en el tecnofeudalismo. El feudalismo tecnológico plantea un escenario perfecto para la manipulación sistémica mediante la desinformación, cámaras de resonancia, polarización, etc. ¿Qué tan libre es aquel que ha sido manipulado? ¿Qué tan democrática puede ser una sociedad cuya experiencia es manufacturada por señores tecnofeudales? 
+Al aceptar, docilmente, la condición de tecnovasallo, el aldeano digital pierde progresivamente su capacidad de discernimiento.
+Esta pérdida es la raíz de los peligros que enfrenta la democracia en el tecnofeudalismo.
+El feudalismo tecnológico plantea un escenario perfecto para la manipulación sistémica mediante la desinformación, cámaras de resonancia, polarización, etc.
+¿Qué tan libre es aquel que ha sido manipulado? ¿Qué tan democrática puede ser una sociedad cuya experiencia es manufacturada por señores tecnofeudales? 
 
 #### **Las trincheras**
 
-Si se amenaza a la democracia, ¿desde dónde se defiende? Si bien para muchos el deber democrático reside únicamente en acudir a las urnas cada cierto tiempo, el deber sostenido implica integrar los ideales democráticos en el día a día. Frente al tecnofeudalismo, la defensa de los ideales democráticos desde la ciencia y la tecnología resulta el siguiente paso lógico. 
+Si se amenaza a la democracia, ¿desde dónde se defiende?
+Si bien para muchos el deber democrático reside únicamente en acudir a las urnas cada cierto tiempo, el deber sostenido implica integrar los ideales democráticos en el día a día.
+Frente al tecnofeudalismo, la defensa de los ideales democráticos desde la ciencia y la tecnología resulta el siguiente paso lógico. 
 
-La cuestión de la manera en que se construye, cómo se distribuye y con qué fin se hace la ciencia y la tecnología es de suma importancia en este aspecto. Democratizar la ciencia y la tecnología invita a la deliberación colectiva de estas cuestiones. El aldeano digital que conoce lo suficiente de ciencia y tecnología defiende los ideales democráticos al exigir, cuestionar y proponer los usos y enfoques de esta. En el proceso, el aldeano digital deja de ser un tecnovasallo y se convierte en un ciudadano emancipado cuando adquiere la capacidad crítica para exigir, cuestionar y proponer sobre la ciencia y la tecnología que impactan su vida.
+La cuestión de la manera en que se construye, cómo se distribuye y con qué fin se hace la ciencia y la tecnología es de suma importancia en este aspecto.
+Democratizar la ciencia y la tecnología invita a la deliberación colectiva de estas cuestiones.
+El aldeano digital que conoce lo suficiente de ciencia y tecnología defiende los ideales democráticos al exigir, cuestionar y proponer los usos y enfoques de esta.
+En el proceso, el aldeano digital deja de ser un tecnovasallo y se convierte en un ciudadano emancipado cuando adquiere la capacidad crítica para exigir, cuestionar y proponer sobre la ciencia y la tecnología que impactan su vida.
 
-Una democracia multicultural que reconoce la validez de los distintos tipos de saberes no requiere que todos los ciudadanos sean científicos o ingenieros del algoritmo, pero sí que exista el diálogo entre diferentes perspectivas y una genuina participación ciudadana. La ciencia abierta, el software libre, la educación crítica y la organización comunitaria son las herramientas para desmontar la torre, abrir la catedral y plantar, en su lugar, una plaza pública.
+Una democracia multicultural que reconoce la validez de los distintos tipos de saberes no requiere que todos los ciudadanos sean científicos o ingenieros del algoritmo, pero sí que exista el diálogo entre diferentes perspectivas y una genuina participación ciudadana.
+La ciencia abierta, el software libre, la educación crítica y la organización comunitaria son las herramientas para desmontar la torre, abrir la catedral y plantar, en su lugar, una plaza pública.
 
 ## Contraportada
 
