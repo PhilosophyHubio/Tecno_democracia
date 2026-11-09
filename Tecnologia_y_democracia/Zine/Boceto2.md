@@ -155,7 +155,7 @@ La tecnología opaca (como la de la catedral o de la caja negra) es la manifesta
 
 El científico que sale de la torre de marfil no puede desentenderse del uso que se le da a su conocimiento.
 Debe ser consciente de que la elección del objeto de su investigación, la manera en que lo comunica y con quién colabora tienen un efecto directo sobre la sociedad.
-Una ciencia responsable debería investigar y diseñar mecanismos y tecnologías que favorezcan la transparencia, autonomía y participación del público, un modelo mucho más parecido al de la catedral.
+Una ciencia responsable debería investigar y diseñar mecanismos y tecnologías que favorezcan la transparencia, autonomía y participación del público, un modelo mucho más parecido al del bazar.
 ¿Será eso posible?
 
 #### **¿(Feudo)ciencia?**
@@ -163,7 +163,7 @@ Una ciencia responsable debería investigar y diseñar mecanismos y tecnologías
 %%Dewey diferencias de grado, Harding. %%
 
 Las relaciones feudales se extienden no solo al campo del ciberespacio, las plataformas y los usuarios, sino al de la tecnología y del conocimiento en general.
-La labor científica conlleva la responsabilidad social de no desentenderse del uso que se le da a los productos que desarrolla, por ejemplo, los algoritmos y protocolos con los que los señores feudales construllen sus murallas; sin embargo, la ciencia misma también debe ocuparse de no replicar las estructuras feudales o de poder y dominación dentro de sus propias prácticas. 
+La labor científica conlleva la responsabilidad social de no desentenderse del uso que se le da a los productos que desarrolla, por ejemplo, los algoritmos y protocolos con los que los señores feudales construyen sus murallas; sin embargo, la ciencia misma también debe ocuparse de no replicar las estructuras feudales o de poder y dominación dentro de sus propias prácticas. 
 
 Los sistemas de dominación propios del tecnofeudalismo operan mediante una serie de simulaciones y promesas: la promesa del progreso, la eficiencia y la razón, y la simulación de neutralidad (*"neutralidad técnica"*), entre otros.
 La filósofa Sandra Harding hace la observación de que estas mismas han sido utilizadas para camuflar el ejercicio de poder en la ciencia beneficiando de manera desigual a unos grupos frente a todos los demás. 
@@ -195,7 +195,7 @@ La ciencia que necesita la aldea digital no debe despreciar los diferentes tipos
 
 ¿A qué se enfrenta la democracia? Cuando las noticias, opiniones y contenidos pasan por un intermediario que define qué es lo que se muestra y lo que no, cuando el algoritmo nos muestra exclusivamente aquello con lo que sabe que estamos de acuerdo o aquello por lo que pagó un tercero para que lo viéramos, ¿qué tan libre puede ser nuestro acceso a la información? ¿Qué tan ***nuestras*** son nuestras opiniones? ¿Y nuestras decisiones? ¿Qué sucede cuando, empujoncito a empujoncito, se manipula la opinión de millones de personas sin que tengan la menor idea? ¿Cuándo se vigila constantemente a los usuarios?
 
-Al aceptar, docilmente, la condición de tecnovasallo, el aldeano digital pierde progresivamente su capacidad de discernimiento.
+Al aceptar, dócilmente, la condición de tecnovasallo, el aldeano digital pierde progresivamente su capacidad de discernimiento.
 Esta pérdida es la raíz de los peligros que enfrenta la democracia en el tecnofeudalismo.
 El feudalismo tecnológico plantea un escenario perfecto para la manipulación sistémica mediante la desinformación, cámaras de resonancia, polarización, etc.
 ¿Qué tan libre es aquel que ha sido manipulado? ¿Qué tan democrática puede ser una sociedad cuya experiencia es manufacturada por señores tecnofeudales? 
